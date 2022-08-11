@@ -3,7 +3,7 @@ owner: 10ego # Your GitHub organization or username, where this repository lives
 repo: HREup # The name of this repository
 
 sites:
-  - name: DHPR
+  - name: The Drug and Health Products Register
     url: https://hpr-rps.hres.ca
   - name: Canada Food Guide
     url: https://food-guide.canada.ca
@@ -11,6 +11,31 @@ sites:
     url: https://covid-vaccine.canada.ca
   - name: Controlled Vocabulary
     url: https://cv.hres.ca
+  - name: Clinical Trials Search
+    url: https://health-products.canada.ca/ctdb-bdec/index-eng.jsp
+  - name: Drug Products Database
+    url: https://health-products.canada.ca/dpd-bdpp/
+  - name: Canadian Nutrient File
+    url: https://health-products.canada.ca/cnf-fce/
+  - name: LNHPD search
+    url: https://health-products.canada.ca/lnhpd-bdpsnh/
+  - name: Medical Devices Active License Listing
+    url: https://health-products.canada.ca/mdall-limh/
+  - name: Medical Devices Establishment License Listing
+    url: https://health-products.canada.ca/mdel-leim/
+  - name: Notice of Compliance search
+    url: https://health-products.canada.ca/noc-ac/
+  - name: Veterinary Health Products - Notification Program
+    url: https://health-products.canada.ca/vhp-psa/en
+  - name: Product Monograph PDFs
+    url: $PDF_PM
+  - name: Reference Listing of Accepted Construction Materials, Packaging Materials and Non-Food Chemical Products Database
+    url: https://fpia.hres.ca
+  - name: Canada Vigilance Consumer Dashboard
+    url: https://health-products.canada.ca/adverse-reaction/
+  - name: Consumer App Push Notification Service
+    url: $CVT_PNS
+
 assignees:
   - 10ego
 status-website:
@@ -20,8 +45,8 @@ status-website:
   baseUrl: /HREup
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HREup
-  introTitle: "**HREup** is the open-source uptime monitor and status page for HRE applications, powered entirely by GitHub."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**HREup** is an open-source uptime monitor and status page for HRE applications, powered entirely by GitHub using Upptime."
+  introMessage: This is a github page which uses **real-time** data from the [GitHub repository](https://github.com/10ego/HREup). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
