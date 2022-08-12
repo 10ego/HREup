@@ -12,8 +12,8 @@ sites:
     url: https://health-products.canada.ca/cnf-fce/
   - name: Clinical Trials Search
     url: https://health-products.canada.ca/ctdb-bdec/index-eng.jsp
-  - name: Consumer App Push Notification Service
-    url: $CVT_PNS
+  # - name: Consumer App Push Notification Service
+  #   url: $CVT_PNS
   - name: Controlled Vocabulary
     url: https://cv.hres.ca
   - name: COVID Vaccine Portal
@@ -54,8 +54,8 @@ sites:
     url: https://tables.hres.ca/mdiol/IVDD-auth/auth-ivdd-fr.html
   - name: Tables MDS Non IVDD (fr)
     url: https://tables.hres.ca/mdiol/nonIVDD-auth/auth-nonivdd-fr.html
-  - name: Tables MDS Pending (fr)Tables MDS Pending (fr)Tables MDS Pending (fr)
-    url: Tables MDS Pending (fr)
+  - name: Tables MDS Pending (fr)
+    url: https://tables.hres.ca/mdiol/pending-IVDD-auth/pending-appl-fr.html
   - name: Veterinary Health Products - Notification Program
     url: https://health-products.canada.ca/vhp-psa/en
 
