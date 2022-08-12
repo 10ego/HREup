@@ -4,19 +4,19 @@
     "url": "https://food-guide.canada.ca",
     "icon": "https://favicons.githubusercontent.com/food-guide.canada.ca",
     "slug": "canada-food-guide",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 314,
     "timeDay": 314,
     "timeWeek": 314,
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2022-08-12": 6
+      "2022-08-12": 0
     }
   },
   {
