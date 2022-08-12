@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/food-guide.canada.ca",
     "slug": "canada-food-guide",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 305,
     "timeDay": 305,
     "timeWeek": 305,
     "timeMonth": 305,
     "timeYear": 305,
-    "dailyMinutesDown": {
-      "2022-08-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Canada Vigilance Consumer Dashboard",
