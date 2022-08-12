@@ -3,20 +3,31 @@ owner: 10ego # Your GitHub organization or username, where this repository lives
 repo: HREup # The name of this repository
 
 sites:
-  - name: The Drug and Health Products Register
-    url: https://hpr-rps.hres.ca
+  
   - name: Canada Food Guide
     url: https://food-guide.canada.ca
-  - name: COVID Vaccine Portal
-    url: https://covid-vaccine.canada.ca
-  - name: Controlled Vocabulary
-    url: https://cv.hres.ca
-  - name: Clinical Trials Search
-    url: https://health-products.canada.ca/ctdb-bdec/index-eng.jsp
-  - name: Drug Products Database
-    url: https://health-products.canada.ca/dpd-bdpp/
+  - name: Canada Vigilance Consumer Dashboard
+    url: https://health-products.canada.ca/adverse-reaction/
   - name: Canadian Nutrient File
     url: https://health-products.canada.ca/cnf-fce/
+  - name: Clinical Trials Search
+    url: https://health-products.canada.ca/ctdb-bdec/index-eng.jsp
+  - name: Consumer App Push Notification Service
+    url: $CVT_PNS
+  - name: Controlled Vocabulary
+    url: https://cv.hres.ca
+  - name: COVID Vaccine Portal
+    url: https://covid-vaccine.canada.ca
+  - name: The Drug and Health Products Register
+    url: https://hpr-rps.hres.ca
+  - name: Drug Products Database (DPD)
+    url: https://health-products.canada.ca/dpd-bdpp/
+  - name: DPD API
+    url: https://health-products.canada.ca/api/drug/company/?lang=en&type=json
+  - name: eSAP prod
+    url: https://appian.hpfb-dgpsa.ca/suite/
+  - name: eSAP Stage
+    url: $ESAP_STAGE
   - name: LNHPD search
     url: https://health-products.canada.ca/lnhpd-bdpsnh/
   - name: Medical Devices Active License Listing
@@ -25,16 +36,29 @@ sites:
     url: https://health-products.canada.ca/mdel-leim/
   - name: Notice of Compliance search
     url: https://health-products.canada.ca/noc-ac/
-  - name: Veterinary Health Products - Notification Program
-    url: https://health-products.canada.ca/vhp-psa/en
   - name: Product Monograph PDFs
     url: $PDF_PM
   - name: Reference Listing of Accepted Construction Materials, Packaging Materials and Non-Food Chemical Products Database
     url: https://fpia.hres.ca
-  - name: Canada Vigilance Consumer Dashboard
-    url: https://health-products.canada.ca/adverse-reaction/
-  - name: Consumer App Push Notification Service
-    url: $CVT_PNS
+  - name: Reference Listing of Accepted Construction Materials, Packaging Materials and Non-Food Chemical Products Database (Old)
+    url: https://food-nutrition.canada.ca/food-safety/referencelist/index-en.php
+  - name: Regulatory Content API
+    url: $REG_CONTENT_API
+  - name: Regulatory Decision Summary Page
+    url: $RDS_PAGE
+  - name: Regulatory Enrollment Program Page
+    url: $REP_COMPANY
+  - name: Rest MDS Authorized Devices IVDD
+    url: $REST_MDS
+  - name: Tables MDS Auth IVDD (fr)
+    url: https://tables.hres.ca/mdiol/IVDD-auth/auth-ivdd-fr.html
+  - name: Tables MDS Non IVDD (fr)
+    url: https://tables.hres.ca/mdiol/nonIVDD-auth/auth-nonivdd-fr.html
+  - name: Tables MDS Pending (fr)Tables MDS Pending (fr)Tables MDS Pending (fr)
+    url: Tables MDS Pending (fr)
+  - name: Veterinary Health Products - Notification Program
+    url: https://health-products.canada.ca/vhp-psa/en
+
 
 assignees:
   - 10ego
