@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/api/drug/company/?lang=en&type=json
 status: up
 code: 200
-responseTime: 360
-lastUpdated: 2022-10-19T23:14:27.940Z
+responseTime: 168
+lastUpdated: 2022-10-20T23:15:02.839Z
 startTime: Fri Aug 12 2022 16:15:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
