@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/adverse-reaction/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-12-02T11:19:44.474Z
+status: up
+code: 200
+responseTime: 186
+lastUpdated: 2022-12-02T12:15:25.532Z
 startTime: Thu Aug 11 2022 21:04:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
