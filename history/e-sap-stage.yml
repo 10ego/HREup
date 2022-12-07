@@ -1,7 +1,7 @@
 url: $ESAP_STAGE
-status: down
-code: 503
-responseTime: 462
-lastUpdated: 2022-12-07T21:45:25.321Z
+status: up
+code: 200
+responseTime: 199
+lastUpdated: 2022-12-07T21:59:33.777Z
 startTime: Fri Aug 12 2022 16:15:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
