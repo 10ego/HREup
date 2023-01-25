@@ -395,7 +395,7 @@
     "url": "https://fpia.hres.ca",
     "icon": "https://icons.duckduckgo.com/ip3/fpia.hres.ca.ico",
     "slug": "reference-listing-of-accepted-construction-materials-packaging-materials-and-non-food-chemical-products-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -493,9 +493,9 @@
     "slug": "rest-mds-authorized-devices-ivdd",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 441,
     "timeDay": 746,
@@ -503,7 +503,6 @@
     "timeMonth": 471,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
       "2023-01-12": 19,
       "2022-12-02": 30
     }
@@ -513,11 +512,11 @@
     "url": "https://tables.hres.ca/mdiol/IVDD-auth/auth-ivdd-fr.html",
     "icon": "https://icons.duckduckgo.com/ip3/tables.hres.ca.ico",
     "slug": "tables-mds-auth-ivdd-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 295,
     "timeDay": 357,
@@ -525,7 +524,7 @@
     "timeMonth": 322,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
+      "2023-01-25": 1,
       "2022-12-02": 30
     }
   },
@@ -534,10 +533,10 @@
     "url": "https://tables.hres.ca/mdiol/nonIVDD-auth/auth-nonivdd-fr.html",
     "icon": "https://icons.duckduckgo.com/ip3/tables.hres.ca.ico",
     "slug": "tables-mds-non-ivdd-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 53,
@@ -546,6 +545,7 @@
     "timeMonth": 55,
     "timeYear": 53,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-12-02": 29
     }
   },
@@ -554,9 +554,9 @@
     "url": "https://tables.hres.ca/mdiol/pending-IVDD-auth/pending-appl-fr.html",
     "icon": "https://icons.duckduckgo.com/ip3/tables.hres.ca.ico",
     "slug": "tables-mds-pending-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -566,6 +566,7 @@
     "timeMonth": 55,
     "timeYear": 52,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-12-02": 29
     }
   },
