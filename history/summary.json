@@ -185,11 +185,11 @@
     "url": "https://health-products.canada.ca/api/drug/company/?lang=en&type=json",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "dpd-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 511,
     "timeDay": 9694,
@@ -197,7 +197,7 @@
     "timeMonth": 1441,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-02-22": 29,
+      "2023-02-22": 19,
       "2022-12-02": 37
     }
   },
