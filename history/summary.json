@@ -387,9 +387,9 @@
     "url": "$PDF_PM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "product-monograph-pd-fs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "98.38%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -399,7 +399,7 @@
     "timeMonth": 1415,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2023-02-22": 23,
+      "2023-02-22": 24,
       "2023-01-12": 25,
       "2023-01-11": 32,
       "2022-12-02": 34
