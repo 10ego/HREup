@@ -185,9 +185,9 @@
     "url": "https://health-products.canada.ca/api/drug/company/?lang=en&type=json",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "dpd-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
@@ -197,6 +197,7 @@
     "timeMonth": 2553,
     "timeYear": 767,
     "dailyMinutesDown": {
+      "2023-02-23": 1,
       "2023-02-22": 36,
       "2022-12-02": 37
     }
@@ -389,9 +390,9 @@
     "slug": "product-monograph-pd-fs",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
     "time": 1093,
     "timeDay": 15939,
@@ -399,7 +400,6 @@
     "timeMonth": 3206,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2023-02-23": 15,
       "2023-02-22": 41,
       "2023-01-12": 25,
       "2023-01-11": 32,
@@ -516,7 +516,7 @@
     "time": 445,
     "timeDay": 726,
     "timeWeek": 557,
-    "timeMonth": 469,
+    "timeMonth": 476,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2023-02-17": 183,
