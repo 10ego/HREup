@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/ctdb-bdec/index-eng.jsp
-status: up
-code: 200
-responseTime: 62
-lastUpdated: 2023-05-13T23:07:16.579Z
+status: down
+code: 500
+responseTime: 165
+lastUpdated: 2023-05-14T11:21:40.450Z
 startTime: Thu Aug 11 2022 21:04:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
