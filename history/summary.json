@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "appian-dev",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 1
+      "2023-10-24": 2
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "appian-prod",
     "status": "down",
-    "uptime": "0.96%",
-    "uptimeDay": "0.96%",
-    "uptimeWeek": "0.96%",
-    "uptimeMonth": "0.96%",
-    "uptimeYear": "0.96%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 1
+      "2023-10-24": 2
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 1
+      "2023-10-24": 2
     }
   },
   {
@@ -280,8 +280,8 @@
     "slug": "dpd-api",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "94.91%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "94.90%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.89%",
     "time": 571,
@@ -290,7 +290,7 @@
     "timeMonth": 272,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-10-24": 1,
+      "2023-10-24": 2,
       "2023-10-19": 512,
       "2023-02-22": 36,
       "2022-12-02": 37
@@ -463,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 1
+      "2023-10-24": 2
     }
   },
   {
@@ -472,18 +472,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safety-summary-review-api",
     "status": "down",
-    "uptime": "1.38%",
-    "uptimeDay": "1.38%",
-    "uptimeWeek": "1.38%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "1.38%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 1
+      "2023-10-24": 2
     }
   },
   {
