@@ -1,7 +1,7 @@
 url: $SBD_API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-14T21:49:42.610Z
+status: up
+code: 200
+responseTime: 11471
+lastUpdated: 2023-11-14T21:54:43.772Z
 startTime: 2023-10-24T17:19:52.083Z
 generator: Upptime <https://github.com/upptime/upptime>
