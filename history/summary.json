@@ -448,19 +448,19 @@
     "url": "$SBD_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "summary-safety-decision-api",
-    "status": "up",
-    "uptime": "90.44%",
-    "uptimeDay": "80.53%",
-    "uptimeWeek": "75.42%",
-    "uptimeMonth": "90.44%",
-    "uptimeYear": "90.44%",
+    "status": "down",
+    "uptime": "90.60%",
+    "uptimeDay": "80.46%",
+    "uptimeWeek": "75.52%",
+    "uptimeMonth": "90.60%",
+    "uptimeYear": "90.60%",
     "time": 6345,
-    "timeDay": 9390,
+    "timeDay": 9548,
     "timeWeek": 8315,
     "timeMonth": 6345,
     "timeYear": 6345,
     "dailyMinutesDown": {
-      "2023-11-15": 263,
+      "2023-11-15": 264,
       "2023-11-14": 505,
       "2023-11-13": 233,
       "2023-11-12": 404,
@@ -469,7 +469,7 @@
       "2023-11-09": 361,
       "2023-11-08": 182,
       "2023-11-07": 188,
-      "2023-11-06": 209
+      "2023-11-06": 157
     }
   },
   {
