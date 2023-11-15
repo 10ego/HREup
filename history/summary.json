@@ -448,19 +448,19 @@
     "url": "$SBD_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "summary-safety-decision-api",
-    "status": "up",
-    "uptime": "90.41%",
-    "uptimeDay": "79.97%",
-    "uptimeWeek": "75.36%",
-    "uptimeMonth": "90.41%",
-    "uptimeYear": "90.41%",
+    "status": "down",
+    "uptime": "90.49%",
+    "uptimeDay": "81.79%",
+    "uptimeWeek": "75.42%",
+    "uptimeMonth": "90.49%",
+    "uptimeYear": "90.49%",
     "time": 6339,
-    "timeDay": 9714,
-    "timeWeek": 8315,
+    "timeDay": 9382,
+    "timeWeek": 8309,
     "timeMonth": 6339,
     "timeYear": 6339,
     "dailyMinutesDown": {
-      "2023-11-15": 244,
+      "2023-11-15": 245,
       "2023-11-14": 505,
       "2023-11-13": 233,
       "2023-11-12": 404,
@@ -469,8 +469,7 @@
       "2023-11-09": 361,
       "2023-11-08": 182,
       "2023-11-07": 188,
-      "2023-11-06": 209,
-      "2023-11-05": 22
+      "2023-11-06": 209
     }
   },
   {
@@ -479,19 +478,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safety-summary-review-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2151,
     "timeDay": 6745,
     "timeWeek": 3389,
     "timeMonth": 2151,
     "timeYear": 2151,
-    "dailyMinutesDown": {
-      "2023-11-15": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Regulatory Content API",
