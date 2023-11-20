@@ -452,18 +452,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "summary-safety-decision-api",
     "status": "up",
-    "uptime": "91.82%",
-    "uptimeDay": "86.65%",
-    "uptimeWeek": "79.57%",
-    "uptimeMonth": "91.82%",
-    "uptimeYear": "91.82%",
+    "uptime": "91.69%",
+    "uptimeDay": "90.80%",
+    "uptimeWeek": "80.09%",
+    "uptimeMonth": "91.69%",
+    "uptimeYear": "91.69%",
     "time": 6542,
-    "timeDay": 7399,
-    "timeWeek": 7789,
+    "timeDay": 7393,
+    "timeWeek": 7797,
     "timeMonth": 6542,
     "timeYear": 6542,
     "dailyMinutesDown": {
-      "2023-11-19": 189,
+      "2023-11-19": 177,
       "2023-11-18": 333,
       "2023-11-17": 312,
       "2023-11-16": 225,
@@ -472,7 +472,7 @@
       "2023-11-13": 233,
       "2023-11-12": 404,
       "2023-11-11": 440,
-      "2023-11-10": 198
+      "2023-11-10": 263
     }
   },
   {
