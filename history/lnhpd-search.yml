@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/lnhpd-bdpsnh/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-30T11:48:28.597Z
+status: up
+code: 200
+responseTime: 234
+lastUpdated: 2023-11-30T12:16:45.666Z
 startTime: 2022-08-11T21:04:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
