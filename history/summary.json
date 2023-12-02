@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 228,
-    "timeWeek": 344,
-    "timeMonth": 370,
-    "timeYear": 359,
+    "time": 364,
+    "timeDay": 560,
+    "timeWeek": 352,
+    "timeMonth": 371,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 255,
-    "timeWeek": 327,
-    "timeMonth": 378,
-    "timeYear": 367,
+    "time": 371,
+    "timeDay": 527,
+    "timeWeek": 337,
+    "timeMonth": 374,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 349,
-    "timeWeek": 360,
+    "time": 361,
+    "timeDay": 545,
+    "timeWeek": 363,
     "timeMonth": 372,
-    "timeYear": 356,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   },
   {
@@ -65,14 +65,13 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.93%",
     "time": 411,
-    "timeDay": 246,
-    "timeWeek": 301,
-    "timeMonth": 369,
-    "timeYear": 413,
+    "timeDay": 504,
+    "timeWeek": 306,
+    "timeMonth": 366,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2023-11-27": 286,
-      "2023-05-17": 18,
-      "2022-12-02": 56
+      "2023-05-17": 18
     }
   },
   {
@@ -82,14 +81,14 @@
     "slug": "canada-vigilance-consumer-dashboard",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "65.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "69.24%",
     "uptimeMonth": "92.00%",
     "uptimeYear": "99.32%",
     "time": 314,
-    "timeDay": 300,
-    "timeWeek": 667,
-    "timeMonth": 424,
+    "timeDay": 284,
+    "timeWeek": 657,
+    "timeMonth": 423,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2023-11-30": 32,
@@ -98,8 +97,7 @@
       "2023-11-26": 1088,
       "2023-11-25": 1440,
       "2023-11-24": 340,
-      "2023-05-17": 18,
-      "2022-12-02": 56
+      "2023-05-17": 18
     }
   },
   {
@@ -108,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "83.99%",
+    "uptime": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.22%",
     "uptimeMonth": "96.32%",
     "uptimeYear": "99.64%",
-    "time": 464,
-    "timeDay": 469,
-    "timeWeek": 1147,
-    "timeMonth": 695,
-    "timeYear": 470,
+    "time": 465,
+    "timeDay": 472,
+    "timeWeek": 1184,
+    "timeMonth": 693,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2023-11-30": 32,
       "2023-11-29": 211,
@@ -127,8 +125,7 @@
       "2023-08-28": 20,
       "2023-05-17": 18,
       "2023-03-03": 20,
-      "2023-01-22": 149,
-      "2022-12-02": 55
+      "2023-01-22": 149
     }
   },
   {
@@ -137,16 +134,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "clinical-trials-search",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "84.02%",
+    "uptime": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.25%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "99.26%",
     "time": 154,
-    "timeDay": 274,
-    "timeWeek": 684,
-    "timeMonth": 387,
-    "timeYear": 167,
+    "timeDay": 298,
+    "timeWeek": 572,
+    "timeMonth": 388,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2023-11-30": 31,
       "2023-11-29": 210,
@@ -166,8 +163,7 @@
       "2023-04-16": 48,
       "2023-03-19": 32,
       "2023-02-19": 57,
-      "2023-01-22": 142,
-      "2022-12-02": 55
+      "2023-01-22": 142
     }
   },
   {
@@ -177,14 +173,14 @@
     "slug": "controlled-vocabulary",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "53.82%",
-    "uptimeWeek": "55.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "58.99%",
     "uptimeMonth": "89.65%",
     "uptimeYear": "99.06%",
     "time": 774,
-    "timeDay": 744,
-    "timeWeek": 1374,
-    "timeMonth": 989,
+    "timeDay": 723,
+    "timeWeek": 1356,
+    "timeMonth": 985,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2023-11-30": 736,
@@ -195,8 +191,7 @@
       "2023-11-24": 339,
       "2023-05-29": 27,
       "2023-05-25": 17,
-      "2023-05-19": 283,
-      "2022-12-02": 54
+      "2023-05-19": 283
     }
   },
   {
@@ -211,13 +206,12 @@
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.94%",
     "time": 333,
-    "timeDay": 182,
-    "timeWeek": 237,
-    "timeMonth": 273,
-    "timeYear": 344,
+    "timeDay": 421,
+    "timeWeek": 236,
+    "timeMonth": 271,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-11-27": 282,
-      "2022-12-02": 53
+      "2023-11-27": 282
     }
   },
   {
@@ -227,13 +221,13 @@
     "slug": "the-drug-and-health-products-register",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "53.82%",
-    "uptimeWeek": "55.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "59.01%",
     "uptimeMonth": "89.65%",
     "uptimeYear": "99.13%",
     "time": 301,
-    "timeDay": 320,
-    "timeWeek": 404,
+    "timeDay": 388,
+    "timeWeek": 406,
     "timeMonth": 314,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -242,8 +236,7 @@
       "2023-11-27": 392,
       "2023-11-26": 1086,
       "2023-11-25": 1440,
-      "2023-11-24": 338,
-      "2022-12-02": 38
+      "2023-11-24": 338
     }
   },
   {
@@ -252,16 +245,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dhpp.hpfb-dgpsa.ca.ico",
     "slug": "the-drug-and-health-products-portal",
     "status": "up",
-    "uptime": "91.55%",
-    "uptimeDay": "53.82%",
-    "uptimeWeek": "54.93%",
+    "uptime": "91.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "58.90%",
     "uptimeMonth": "89.63%",
-    "uptimeYear": "91.55%",
-    "time": 684,
-    "timeDay": 532,
+    "uptimeYear": "91.77%",
+    "time": 681,
+    "timeDay": 529,
     "timeWeek": 1397,
-    "timeMonth": 770,
-    "timeYear": 684,
+    "timeMonth": 771,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2023-11-30": 737,
       "2023-11-29": 551,
@@ -278,15 +271,15 @@
     "slug": "drug-products-database-dpd",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "84.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.33%",
     "uptimeMonth": "96.19%",
     "uptimeYear": "99.27%",
-    "time": 533,
-    "timeDay": 647,
-    "timeWeek": 1051,
+    "time": 534,
+    "timeDay": 637,
+    "timeWeek": 1071,
     "timeMonth": 743,
-    "timeYear": 558,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2023-11-30": 29,
       "2023-11-29": 207,
@@ -306,8 +299,7 @@
       "2023-04-16": 47,
       "2023-03-19": 25,
       "2023-02-19": 55,
-      "2023-01-22": 142,
-      "2022-12-02": 38
+      "2023-01-22": 142
     }
   },
   {
@@ -317,14 +309,14 @@
     "slug": "dpd-api",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "59.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "63.08%",
     "uptimeMonth": "90.59%",
     "uptimeYear": "99.10%",
-    "time": 618,
-    "timeDay": 449,
-    "timeWeek": 1682,
-    "timeMonth": 1263,
+    "time": 617,
+    "timeDay": 76,
+    "timeWeek": 1534,
+    "timeMonth": 1253,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2023-11-30": 29,
@@ -334,8 +326,7 @@
       "2023-11-25": 1440,
       "2023-11-24": 336,
       "2023-10-19": 512,
-      "2023-02-22": 36,
-      "2022-12-02": 37
+      "2023-02-22": 36
     }
   },
   {
@@ -345,14 +336,14 @@
     "slug": "lnhpd-search",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "81.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "84.13%",
     "uptimeMonth": "95.84%",
     "uptimeYear": "99.59%",
     "time": 167,
-    "timeDay": 168,
-    "timeWeek": 1848,
-    "timeMonth": 898,
+    "timeDay": 171,
+    "timeWeek": 1940,
+    "timeMonth": 900,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2023-11-30": 28,
@@ -364,8 +355,7 @@
       "2023-04-16": 47,
       "2023-03-19": 31,
       "2023-02-19": 55,
-      "2023-01-22": 148,
-      "2022-12-02": 36
+      "2023-01-22": 148
     }
   },
   {
@@ -375,15 +365,15 @@
     "slug": "medical-devices-active-license-listing",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "84.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.59%",
     "uptimeMonth": "96.42%",
     "uptimeYear": "99.65%",
     "time": 88,
-    "timeDay": 113,
-    "timeWeek": 194,
-    "timeMonth": 117,
-    "timeYear": 94,
+    "timeDay": 166,
+    "timeWeek": 197,
+    "timeMonth": 119,
+    "timeYear": 95,
     "dailyMinutesDown": {
       "2023-11-30": 28,
       "2023-11-29": 207,
@@ -393,8 +383,7 @@
       "2023-08-28": 23,
       "2023-03-19": 25,
       "2023-02-19": 55,
-      "2023-01-22": 148,
-      "2022-12-02": 35
+      "2023-01-22": 148
     }
   },
   {
@@ -404,14 +393,14 @@
     "slug": "medical-devices-establishment-license-listing",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "83.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.18%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "99.27%",
     "time": 489,
-    "timeDay": 556,
-    "timeWeek": 2217,
-    "timeMonth": 1098,
+    "timeDay": 596,
+    "timeWeek": 2343,
+    "timeMonth": 1104,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2023-11-30": 27,
@@ -432,8 +421,7 @@
       "2023-04-16": 47,
       "2023-03-19": 25,
       "2023-02-19": 55,
-      "2023-01-22": 142,
-      "2022-12-02": 35
+      "2023-01-22": 142
     }
   },
   {
@@ -443,22 +431,21 @@
     "slug": "notice-of-compliance-search",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "84.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.47%",
     "uptimeMonth": "96.39%",
     "uptimeYear": "99.69%",
-    "time": 157,
-    "timeDay": 189,
-    "timeWeek": 413,
-    "timeMonth": 247,
-    "timeYear": 185,
+    "time": 158,
+    "timeDay": 281,
+    "timeWeek": 429,
+    "timeMonth": 250,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2023-11-30": 27,
       "2023-11-29": 221,
       "2023-11-27": 386,
       "2023-11-26": 731,
-      "2023-11-24": 218,
-      "2022-12-02": 34
+      "2023-11-24": 218
     }
   },
   {
@@ -468,15 +455,15 @@
     "slug": "product-monograph-pd-fs",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "59.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "63.07%",
     "uptimeMonth": "90.59%",
     "uptimeYear": "99.16%",
     "time": 965,
-    "timeDay": 970,
-    "timeWeek": 3892,
-    "timeMonth": 2470,
-    "timeYear": 1080,
+    "timeDay": 1011,
+    "timeWeek": 3895,
+    "timeMonth": 2472,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2023-11-30": 26,
       "2023-11-29": 852,
@@ -490,8 +477,7 @@
       "2023-03-21": 20,
       "2023-02-22": 41,
       "2023-01-12": 25,
-      "2023-01-11": 32,
-      "2022-12-02": 34
+      "2023-01-11": 32
     }
   },
   {
@@ -505,11 +491,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 876,
-    "timeWeek": 3302,
-    "timeMonth": 1668,
-    "timeYear": 998,
+    "time": 961,
+    "timeDay": 1079,
+    "timeWeek": 3306,
+    "timeMonth": 1670,
+    "timeYear": 999,
     "dailyMinutesDown": {}
   },
   {
@@ -518,16 +504,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "summary-safety-decision-api",
     "status": "up",
-    "uptime": "93.92%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "83.65%",
+    "uptime": "94.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.93%",
     "uptimeMonth": "92.54%",
-    "uptimeYear": "93.92%",
-    "time": 6708,
-    "timeDay": 178,
-    "timeWeek": 6854,
-    "timeMonth": 6711,
-    "timeYear": 6708,
+    "uptimeYear": "94.07%",
+    "time": 6702,
+    "timeDay": 226,
+    "timeWeek": 6829,
+    "timeMonth": 6885,
+    "timeYear": 6702,
     "dailyMinutesDown": {
       "2023-11-30": 25,
       "2023-11-29": 204,
@@ -549,16 +535,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safety-summary-review-api",
     "status": "up",
-    "uptime": "92.21%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "58.46%",
+    "uptime": "92.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "62.38%",
     "uptimeMonth": "90.44%",
-    "uptimeYear": "92.21%",
-    "time": 1944,
-    "timeDay": 63,
-    "timeWeek": 1418,
-    "timeMonth": 2159,
-    "timeYear": 1944,
+    "uptimeYear": "92.41%",
+    "time": 1908,
+    "timeDay": 76,
+    "timeWeek": 1371,
+    "timeMonth": 2230,
+    "timeYear": 1908,
     "dailyMinutesDown": {
       "2023-11-30": 25,
       "2023-11-29": 923,
@@ -574,15 +560,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "regulatory-content-api",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "64.40%",
+    "uptime": "99.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "68.32%",
     "uptimeMonth": "91.81%",
     "uptimeYear": "99.20%",
-    "time": 864,
-    "timeDay": 1364,
-    "timeWeek": 9470,
-    "timeMonth": 4743,
+    "time": 862,
+    "timeDay": 76,
+    "timeWeek": 9464,
+    "timeMonth": 4885,
     "timeYear": 994,
     "dailyMinutesDown": {
       "2023-11-30": 24,
@@ -592,8 +578,7 @@
       "2023-11-25": 1440,
       "2023-11-24": 331,
       "2023-10-19": 532,
-      "2023-10-16": 61,
-      "2022-12-02": 32
+      "2023-10-16": 61
     }
   },
   {
@@ -603,15 +588,15 @@
     "slug": "regulatory-decision-summary-page",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "53.79%",
-    "uptimeWeek": "55.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "59.15%",
     "uptimeMonth": "89.70%",
     "uptimeYear": "98.87%",
-    "time": 391,
-    "timeDay": 637,
-    "timeWeek": 748,
+    "time": 392,
+    "timeDay": 816,
+    "timeWeek": 749,
     "timeMonth": 673,
-    "timeYear": 446,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2023-11-30": 737,
       "2023-11-29": 536,
@@ -620,8 +605,7 @@
       "2023-11-25": 1440,
       "2023-11-24": 331,
       "2023-07-20": 1148,
-      "2023-07-19": 254,
-      "2022-12-02": 31
+      "2023-07-19": 254
     }
   },
   {
@@ -631,12 +615,12 @@
     "slug": "regulatory-enrollment-program-page",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "65.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "69.55%",
     "uptimeMonth": "92.09%",
     "uptimeYear": "99.34%",
     "time": 58,
-    "timeDay": 55,
+    "timeDay": 78,
     "timeWeek": 186,
     "timeMonth": 100,
     "timeYear": 60,
@@ -646,8 +630,7 @@
       "2023-11-27": 386,
       "2023-11-26": 1081,
       "2023-11-25": 1440,
-      "2023-11-24": 330,
-      "2022-12-02": 31
+      "2023-11-24": 330
     }
   },
   {
@@ -657,15 +640,15 @@
     "slug": "rest-mds-authorized-devices-ivdd",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "64.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "68.76%",
     "uptimeMonth": "91.91%",
     "uptimeYear": "99.28%",
     "time": 558,
-    "timeDay": 539,
-    "timeWeek": 2832,
-    "timeMonth": 1431,
-    "timeYear": 594,
+    "timeDay": 759,
+    "timeWeek": 2792,
+    "timeMonth": 1432,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2023-11-30": 23,
       "2023-11-29": 282,
@@ -675,8 +658,7 @@
       "2023-11-24": 330,
       "2023-07-05": 17,
       "2023-02-17": 183,
-      "2023-01-12": 19,
-      "2022-12-02": 30
+      "2023-01-12": 19
     }
   },
   {
@@ -686,14 +668,14 @@
     "slug": "tables-mds-auth-ivdd-fr",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "53.78%",
-    "uptimeWeek": "55.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "59.19%",
     "uptimeMonth": "89.71%",
     "uptimeYear": "99.14%",
     "time": 304,
-    "timeDay": 280,
-    "timeWeek": 331,
-    "timeMonth": 323,
+    "timeDay": 318,
+    "timeWeek": 335,
+    "timeMonth": 324,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-11-30": 738,
@@ -701,8 +683,7 @@
       "2023-11-27": 386,
       "2023-11-26": 1080,
       "2023-11-25": 1440,
-      "2023-11-24": 329,
-      "2022-12-02": 30
+      "2023-11-24": 329
     }
   },
   {
@@ -712,23 +693,22 @@
     "slug": "tables-mds-non-ivdd-fr",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "53.78%",
-    "uptimeWeek": "55.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "59.21%",
     "uptimeMonth": "89.72%",
     "uptimeYear": "99.14%",
     "time": 76,
-    "timeDay": 56,
+    "timeDay": 74,
     "timeWeek": 942,
     "timeMonth": 356,
-    "timeYear": 82,
+    "timeYear": 83,
     "dailyMinutesDown": {
       "2023-11-30": 738,
       "2023-11-29": 532,
       "2023-11-27": 386,
       "2023-11-26": 1080,
       "2023-11-25": 1440,
-      "2023-11-24": 329,
-      "2022-12-02": 29
+      "2023-11-24": 329
     }
   },
   {
@@ -738,12 +718,12 @@
     "slug": "tables-mds-pending-fr",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "53.78%",
-    "uptimeWeek": "55.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "59.22%",
     "uptimeMonth": "89.72%",
     "uptimeYear": "99.14%",
     "time": 54,
-    "timeDay": 55,
+    "timeDay": 74,
     "timeWeek": 105,
     "timeMonth": 69,
     "timeYear": 55,
@@ -753,8 +733,7 @@
       "2023-11-27": 387,
       "2023-11-26": 1079,
       "2023-11-25": 1440,
-      "2023-11-24": 328,
-      "2022-12-02": 29
+      "2023-11-24": 328
     }
   },
   {
@@ -764,14 +743,14 @@
     "slug": "veterinary-health-products-notification-program",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "65.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "69.64%",
     "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 54,
-    "timeDay": 57,
-    "timeWeek": 88,
-    "timeMonth": 65,
+    "timeDay": 78,
+    "timeWeek": 89,
+    "timeMonth": 64,
     "timeYear": 55,
     "dailyMinutesDown": {
       "2023-11-30": 21,
@@ -779,8 +758,7 @@
       "2023-11-27": 387,
       "2023-11-26": 1079,
       "2023-11-25": 1440,
-      "2023-11-24": 328,
-      "2022-12-02": 28
+      "2023-11-24": 328
     }
   }
 ]
