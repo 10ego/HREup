@@ -22,18 +22,20 @@
     "url": "$APPIAN_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "appian-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 233,
-    "timeWeek": 379,
-    "timeMonth": 475,
-    "timeYear": 414,
-    "dailyMinutesDown": {}
+    "time": 410,
+    "timeDay": 149,
+    "timeWeek": 339,
+    "timeMonth": 463,
+    "timeYear": 410,
+    "dailyMinutesDown": {
+      "2024-01-11": 0
+    }
   },
   {
     "name": "Appian test",
