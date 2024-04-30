@@ -1,7 +1,7 @@
 url: $APPIAN_PROD
-status: down
-code: 503
-responseTime: 114
-lastUpdated: 2024-04-30T00:43:46.992Z
+status: up
+code: 200
+responseTime: 349
+lastUpdated: 2024-04-30T01:39:05.379Z
 startTime: 2023-10-24T17:19:29.837Z
 generator: Upptime <https://github.com/upptime/upptime>
