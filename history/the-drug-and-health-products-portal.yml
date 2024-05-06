@@ -1,7 +1,7 @@
 url: https://dhpp.hpfb-dgpsa.ca
-status: up
-code: 200
-responseTime: 370
-lastUpdated: 2024-05-05T23:08:34.788Z
+status: down
+code: 500
+responseTime: 167
+lastUpdated: 2024-05-06T15:37:50.613Z
 startTime: 2023-10-24T17:19:41.511Z
 generator: Upptime <https://github.com/upptime/upptime>
