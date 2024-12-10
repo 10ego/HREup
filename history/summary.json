@@ -71,18 +71,19 @@
     "url": "https://food-guide.canada.ca/en",
     "icon": "https://icons.duckduckgo.com/ip3/food-guide.canada.ca.ico",
     "slug": "canada-food-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 392,
     "timeDay": 248,
     "timeWeek": 345,
     "timeMonth": 340,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2024-12-10": 11,
       "2024-10-25": 18
     }
   },
@@ -91,10 +92,10 @@
     "url": "https://health-products.canada.ca/adverse-reaction/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canada-vigilance-consumer-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 274,
@@ -103,6 +104,7 @@
     "timeMonth": 254,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2024-12-10": 3,
       "2024-11-18": 16,
       "2024-10-25": 18
     }
@@ -112,18 +114,19 @@
     "url": "https://health-products.canada.ca/cnf-fce/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.56%",
-    "uptimeMonth": "87.80%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "87.78%",
     "uptimeYear": "98.19%",
-    "time": 361,
+    "time": 362,
     "timeDay": 230,
-    "timeWeek": 290,
+    "timeWeek": 289,
     "timeMonth": 338,
-    "timeYear": 340,
+    "timeYear": 341,
     "dailyMinutesDown": {
+      "2024-12-10": 9,
       "2024-12-08": 19,
       "2024-12-04": 18,
       "2024-12-03": 812,
@@ -209,8 +212,7 @@
       "2024-06-06": 70,
       "2024-06-05": 16,
       "2024-05-29": 30,
-      "2024-05-27": 36,
-      "2024-05-25": 17
+      "2024-05-27": 36
     }
   },
   {
@@ -272,9 +274,9 @@
     "slug": "controlled-vocabulary",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 732,
     "timeDay": 623,
@@ -282,6 +284,7 @@
     "timeMonth": 644,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2024-12-10": 8,
       "2024-12-04": 17,
       "2024-09-11": 59,
       "2024-01-30": 15,
@@ -295,16 +298,18 @@
     "slug": "covid-vaccine-portal",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 279,
     "timeWeek": 274,
     "timeMonth": 276,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-10": 6
+    }
   },
   {
     "name": "The Drug and Health Products Register",
@@ -331,9 +336,9 @@
     "slug": "the-drug-and-health-products-portal",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 463,
     "timeDay": 339,
@@ -341,6 +346,7 @@
     "timeMonth": 532,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2024-12-10": 5,
       "2024-12-04": 16,
       "2024-10-25": 56,
       "2024-09-11": 59,
@@ -355,9 +361,9 @@
     "slug": "drug-products-database-dpd",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.60%",
     "time": 633,
     "timeDay": 401,
@@ -365,6 +371,7 @@
     "timeMonth": 1161,
     "timeYear": 582,
     "dailyMinutesDown": {
+      "2024-12-10": 3,
       "2024-12-05": 18,
       "2024-11-30": 17,
       "2024-11-25": 17,
@@ -442,8 +449,8 @@
     "slug": "lnhpd-search",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 156,
@@ -452,6 +459,7 @@
     "timeMonth": 88,
     "timeYear": 92,
     "dailyMinutesDown": {
+      "2024-12-10": 2,
       "2024-12-05": 17,
       "2024-11-01": 16,
       "2024-10-25": 56,
@@ -815,8 +823,8 @@
     "slug": "veterinary-health-products-notification-program",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
@@ -824,6 +832,8 @@
     "timeWeek": 37,
     "timeMonth": 42,
     "timeYear": 44,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-10": 1
+    }
   }
 ]
