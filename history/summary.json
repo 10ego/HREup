@@ -113,9 +113,9 @@
     "url": "https://health-products.canada.ca/cnf-fce/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.89%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.21%",
@@ -125,6 +125,7 @@
     "timeMonth": 348,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2025-01-15": 2,
       "2025-01-13": 20,
       "2025-01-11": 16,
       "2025-01-09": 19,
@@ -210,8 +211,7 @@
       "2024-07-06": 1336,
       "2024-07-05": 735,
       "2024-07-04": 15,
-      "2024-07-03": 31,
-      "2024-06-30": 20
+      "2024-07-03": 31
     }
   },
   {
@@ -364,7 +364,7 @@
     "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.72%",
+    "uptimeMonth": "93.96%",
     "uptimeYear": "97.86%",
     "time": 602,
     "timeDay": 691,
@@ -812,7 +812,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tables.hres.ca.ico",
     "slug": "tables-mds-pending-fr",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
