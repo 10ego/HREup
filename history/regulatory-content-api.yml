@@ -1,7 +1,7 @@
 url: $REG_CONTENT_API
-status: down
-code: 500
-responseTime: 146
-lastUpdated: 2025-03-27T16:23:18.407Z
+status: up
+code: 200
+responseTime: 2789
+lastUpdated: 2025-03-27T17:18:12.202Z
 startTime: 2022-08-12T16:15:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
