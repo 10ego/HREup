@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/cnf-fce/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-01T04:02:41.013Z
+status: up
+code: 200
+responseTime: 11645
+lastUpdated: 2025-05-01T04:29:31.729Z
 startTime: 2022-08-11T21:04:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
