@@ -730,19 +730,19 @@
     "url": "$PDF_PM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "product-monograph-pd-fs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 753,
-    "timeDay": 774,
-    "timeWeek": 951,
-    "timeMonth": 582,
-    "timeYear": 629,
+    "timeDay": 909,
+    "timeWeek": 963,
+    "timeMonth": 597,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-05-01": 1
+      "2025-05-01": 12
     }
   },
   {
