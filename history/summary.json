@@ -132,10 +132,10 @@
     "url": "https://health-products.canada.ca/cnf-fce/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "97.76%",
     "uptimeYear": "96.97%",
     "time": 394,
@@ -144,6 +144,7 @@
     "timeMonth": 897,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2025-05-26": 2,
       "2025-05-22": 15,
       "2025-05-18": 29,
       "2025-05-17": 24,
@@ -228,7 +229,7 @@
       "2024-12-17": 28,
       "2024-12-13": 35,
       "2024-12-12": 16,
-      "2024-12-10": 42
+      "2024-12-10": 15
     }
   },
   {
@@ -648,7 +649,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "medical-devices-establishment-license-listing",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.74%",
