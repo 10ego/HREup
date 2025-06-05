@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/mdel-leim/
-status: down
-code: 500
-responseTime: 104
-lastUpdated: 2025-06-05T08:29:30.173Z
+status: up
+code: 200
+responseTime: 311
+lastUpdated: 2025-06-05T18:53:45.358Z
 startTime: 2022-08-11T21:04:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
