@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/dpd-bdpp/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-08T14:53:59.613Z
+status: up
+code: 200
+responseTime: 446
+lastUpdated: 2025-07-08T15:14:49.911Z
 startTime: 2022-08-12T16:15:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
