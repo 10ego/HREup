@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/mdall-limh/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-27T00:02:04.080Z
+status: up
+code: 200
+responseTime: 108
+lastUpdated: 2025-08-27T01:04:44.048Z
 startTime: 2022-08-11T21:04:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
