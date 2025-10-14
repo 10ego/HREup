@@ -1,7 +1,7 @@
 url: https://cv.hres.ca
-status: up
-code: 200
-responseTime: 3749
-lastUpdated: 2025-10-13T23:10:33.959Z
+status: down
+code: 500
+responseTime: 219
+lastUpdated: 2025-10-14T07:39:53.787Z
 startTime: 2022-08-11T20:26:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
