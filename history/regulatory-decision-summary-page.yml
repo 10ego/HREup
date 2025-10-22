@@ -1,7 +1,7 @@
 url: $RDS_PAGE
-status: down
-code: 500
-responseTime: 501
-lastUpdated: 2025-10-22T06:50:41.009Z
+status: up
+code: 200
+responseTime: 3313
+lastUpdated: 2025-10-22T06:59:48.501Z
 startTime: 2022-08-12T16:15:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
