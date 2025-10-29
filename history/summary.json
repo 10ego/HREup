@@ -153,19 +153,19 @@
     "url": "https://health-products.canada.ca/cnf-fce/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "94.79%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "94.95%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "99.09%",
     "time": 422,
     "timeDay": 387,
-    "timeWeek": 359,
+    "timeWeek": 351,
     "timeMonth": 362,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-10-29": 27,
+      "2025-10-29": 29,
       "2025-10-27": 128,
       "2025-10-26": 116,
       "2025-10-25": 55,
@@ -232,8 +232,7 @@
       "2025-06-22": 47,
       "2025-06-20": 54,
       "2025-06-18": 32,
-      "2025-06-15": 32,
-      "2025-06-13": 30
+      "2025-06-15": 32
     }
   },
   {
@@ -241,11 +240,11 @@
     "url": "https://health-products.canada.ca/ctdb-bdec/index-eng.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "clinical-trials-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.22%",
+    "uptimeDay": "98.17%",
     "uptimeWeek": "94.97%",
-    "uptimeMonth": "97.88%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "99.29%",
     "time": 317,
     "timeDay": 203,
@@ -253,7 +252,7 @@
     "timeMonth": 184,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-10-29": 26,
+      "2025-10-29": 27,
       "2025-10-27": 125,
       "2025-10-26": 125,
       "2025-10-25": 55,
@@ -326,8 +325,7 @@
       "2025-04-13": 92,
       "2025-04-11": 26,
       "2025-03-16": 96,
-      "2025-03-11": 95,
-      "2025-03-10": 27
+      "2025-03-11": 95
     }
   },
   {
@@ -338,12 +336,12 @@
     "status": "up",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.33%",
+    "uptimeWeek": "97.72%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.68%",
     "time": 1213,
     "timeDay": 4145,
-    "timeWeek": 5980,
+    "timeWeek": 5815,
     "timeMonth": 5184,
     "timeYear": 1424,
     "dailyMinutesDown": {
@@ -1188,7 +1186,7 @@
     "uptimeYear": "99.66%",
     "time": 735,
     "timeDay": 891,
-    "timeWeek": 867,
+    "timeWeek": 745,
     "timeMonth": 906,
     "timeYear": 803,
     "dailyMinutesDown": {
