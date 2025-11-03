@@ -101,7 +101,7 @@
     "time": 266,
     "timeDay": 206,
     "timeWeek": 250,
-    "timeMonth": 250,
+    "timeMonth": 248,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2025-11-02": 27,
@@ -154,18 +154,19 @@
     "url": "https://health-products.canada.ca/cnf-fce/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "99.10%",
     "time": 422,
-    "timeDay": 380,
-    "timeWeek": 354,
-    "timeMonth": 356,
+    "timeDay": 365,
+    "timeWeek": 360,
+    "timeMonth": 355,
     "timeYear": 442,
     "dailyMinutesDown": {
+      "2025-11-03": 2,
       "2025-11-02": 67,
       "2025-11-01": 19,
       "2025-10-31": 20,
@@ -232,8 +233,7 @@
       "2025-07-05": 28,
       "2025-07-03": 30,
       "2025-06-29": 122,
-      "2025-06-28": 29,
-      "2025-06-22": 18
+      "2025-06-28": 29
     }
   },
   {
@@ -243,13 +243,13 @@
     "slug": "clinical-trials-search",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "98.81%",
     "uptimeMonth": "97.76%",
     "uptimeYear": "99.31%",
     "time": 318,
-    "timeDay": 183,
-    "timeWeek": 175,
+    "timeDay": 153,
+    "timeWeek": 177,
     "timeMonth": 181,
     "timeYear": 359,
     "dailyMinutesDown": {
@@ -342,7 +342,7 @@
     "time": 1257,
     "timeDay": 4219,
     "timeWeek": 4383,
-    "timeMonth": 5353,
+    "timeMonth": 5417,
     "timeYear": 1478,
     "dailyMinutesDown": {
       "2025-11-02": 26,
@@ -424,7 +424,7 @@
     "time": 267,
     "timeDay": 201,
     "timeWeek": 257,
-    "timeMonth": 258,
+    "timeMonth": 257,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2025-11-02": 25,
@@ -470,7 +470,7 @@
     "time": 571,
     "timeDay": 454,
     "timeWeek": 495,
-    "timeMonth": 677,
+    "timeMonth": 682,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2025-11-02": 25,
@@ -525,7 +525,7 @@
     "time": 660,
     "timeDay": 462,
     "timeWeek": 494,
-    "timeMonth": 530,
+    "timeMonth": 529,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2025-11-02": 24,
@@ -637,7 +637,7 @@
     "time": 168,
     "timeDay": 36,
     "timeWeek": 44,
-    "timeMonth": 552,
+    "timeMonth": 562,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2025-11-02": 24,
@@ -782,7 +782,7 @@
     "time": 227,
     "timeDay": 74,
     "timeWeek": 73,
-    "timeMonth": 77,
+    "timeMonth": 76,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-11-02": 23,
@@ -849,7 +849,7 @@
     "time": 425,
     "timeDay": 378,
     "timeWeek": 330,
-    "timeMonth": 358,
+    "timeMonth": 357,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2025-11-02": 22,
@@ -922,7 +922,7 @@
     "time": 145,
     "timeDay": 129,
     "timeWeek": 127,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2025-11-02": 22,
@@ -1028,7 +1028,7 @@
     "time": 1215,
     "timeDay": 836,
     "timeWeek": 990,
-    "timeMonth": 1644,
+    "timeMonth": 1660,
     "timeYear": 1375,
     "dailyMinutesDown": {}
   },
@@ -1046,7 +1046,7 @@
     "time": 155,
     "timeDay": 105,
     "timeWeek": 139,
-    "timeMonth": 362,
+    "timeMonth": 367,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2025-11-02": 20,
@@ -1098,7 +1098,7 @@
     "time": 62,
     "timeDay": 38,
     "timeWeek": 46,
-    "timeMonth": 243,
+    "timeMonth": 247,
     "timeYear": 68,
     "dailyMinutesDown": {
       "2025-11-02": 20,
@@ -1148,7 +1148,7 @@
     "time": 408,
     "timeDay": 36,
     "timeWeek": 45,
-    "timeMonth": 904,
+    "timeMonth": 923,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-11-02": 19,
@@ -1199,7 +1199,7 @@
     "time": 737,
     "timeDay": 611,
     "timeWeek": 675,
-    "timeMonth": 883,
+    "timeMonth": 888,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2025-11-02": 19,
@@ -1245,7 +1245,7 @@
     "time": 71,
     "timeDay": 71,
     "timeWeek": 90,
-    "timeMonth": 89,
+    "timeMonth": 88,
     "timeYear": 79,
     "dailyMinutesDown": {
       "2025-11-02": 18,
@@ -1302,7 +1302,7 @@
     "time": 524,
     "timeDay": 367,
     "timeWeek": 443,
-    "timeMonth": 445,
+    "timeMonth": 441,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2025-11-02": 18,
