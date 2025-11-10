@@ -157,17 +157,16 @@
     "slug": "canadian-nutrient-file",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "99.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "99.11%",
     "time": 423,
     "timeDay": 255,
     "timeWeek": 349,
     "timeMonth": 359,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-11-09": 9,
       "2025-11-07": 15,
       "2025-11-06": 17,
       "2025-11-03": 47,
@@ -233,7 +232,8 @@
       "2025-07-09": 32,
       "2025-07-08": 24,
       "2025-07-07": 28,
-      "2025-07-06": 22
+      "2025-07-06": 22,
+      "2025-07-05": 28
     }
   },
   {
@@ -243,17 +243,16 @@
     "slug": "clinical-trials-search",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "99.31%",
     "time": 318,
     "timeDay": 117,
     "timeWeek": 173,
     "timeMonth": 185,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2025-11-09": 8,
       "2025-11-06": 17,
       "2025-11-02": 50,
       "2025-10-29": 54,
@@ -325,7 +324,8 @@
       "2025-04-30": 99,
       "2025-04-29": 278,
       "2025-04-28": 27,
-      "2025-04-14": 18
+      "2025-04-14": 18,
+      "2025-04-13": 92
     }
   },
   {
