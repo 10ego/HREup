@@ -156,11 +156,11 @@
     "url": "https://health-products.canada.ca/cnf-fce/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "97.79%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "99.12%",
     "time": 423,
     "timeDay": 295,
@@ -168,6 +168,7 @@
     "timeMonth": 355,
     "timeYear": 442,
     "dailyMinutesDown": {
+      "2025-11-13": 2,
       "2025-11-11": 24,
       "2025-11-10": 19,
       "2025-11-07": 15,
@@ -233,8 +234,7 @@
       "2025-07-17": 39,
       "2025-07-16": 21,
       "2025-07-09": 32,
-      "2025-07-08": 24,
-      "2025-07-07": 28
+      "2025-07-08": 24
     }
   },
   {
@@ -242,10 +242,10 @@
     "url": "https://health-products.canada.ca/ctdb-bdec/index-eng.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "clinical-trials-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "99.33%",
     "time": 319,
@@ -254,6 +254,7 @@
     "timeMonth": 185,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2025-11-13": 1,
       "2025-11-10": 18,
       "2025-11-06": 17,
       "2025-11-02": 50,
@@ -325,8 +326,7 @@
       "2025-05-01": 42,
       "2025-04-30": 99,
       "2025-04-29": 278,
-      "2025-04-28": 27,
-      "2025-04-14": 18
+      "2025-04-28": 27
     }
   },
   {
@@ -343,7 +343,7 @@
     "time": 1443,
     "timeDay": 2501,
     "timeWeek": 8645,
-    "timeMonth": 6508,
+    "timeMonth": 6635,
     "timeYear": 1708,
     "dailyMinutesDown": {
       "2025-11-10": 18,
@@ -468,7 +468,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dhpp.hpfb-dgpsa.ca.ico",
     "slug": "the-drug-and-health-products-portal",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.33%",
