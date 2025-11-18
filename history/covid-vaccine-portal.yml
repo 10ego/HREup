@@ -1,7 +1,7 @@
 url: https://covid-vaccine.canada.ca
-status: down
-code: 500
-responseTime: 203
-lastUpdated: 2025-11-18T11:37:39.882Z
+status: up
+code: 200
+responseTime: 459
+lastUpdated: 2025-11-18T11:44:40.556Z
 startTime: 2022-08-11T20:26:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
