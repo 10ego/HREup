@@ -179,11 +179,11 @@
     "url": "https://health-products.canada.ca/cnf-fce/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "89.90%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "92.39%",
+    "uptimeDay": "89.76%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "92.38%",
     "uptimeYear": "99.09%",
     "time": 430,
     "timeDay": 515,
@@ -191,7 +191,7 @@
     "timeMonth": 431,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2025-12-26": 65,
+      "2025-12-26": 67,
       "2025-12-25": 80,
       "2025-12-24": 25,
       "2025-12-23": 18,
@@ -249,8 +249,7 @@
       "2025-10-21": 26,
       "2025-10-20": 62,
       "2025-10-19": 26,
-      "2025-10-15": 24,
-      "2025-10-14": 26
+      "2025-10-15": 24
     }
   },
   {
@@ -258,19 +257,19 @@
     "url": "https://health-products.canada.ca/ctdb-bdec/index-eng.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "clinical-trials-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "91.35%",
-    "uptimeWeek": "97.89%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "97.88%",
     "uptimeMonth": "88.77%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.63%",
     "time": 337,
     "timeDay": 232,
     "timeWeek": 196,
     "timeMonth": 216,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2025-12-26": 65,
+      "2025-12-26": 66,
       "2025-12-25": 60,
       "2025-12-24": 23,
       "2025-12-22": 33,
@@ -341,8 +340,7 @@
       "2025-08-15": 21,
       "2025-08-13": 33,
       "2025-08-09": 15,
-      "2025-08-08": 25,
-      "2025-08-02": 43
+      "2025-08-08": 25
     }
   },
   {
