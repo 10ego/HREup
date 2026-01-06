@@ -184,18 +184,19 @@
     "url": "https://health-products.canada.ca/cnf-fce/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.90%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "97.16%",
     "uptimeMonth": "96.18%",
     "uptimeYear": "99.13%",
     "time": 434,
     "timeDay": 229,
-    "timeWeek": 360,
+    "timeWeek": 355,
     "timeMonth": 432,
     "timeYear": 448,
     "dailyMinutesDown": {
+      "2026-01-06": 2,
       "2026-01-04": 64,
       "2026-01-03": 64,
       "2026-01-02": 58,
@@ -249,8 +250,7 @@
       "2025-11-07": 15,
       "2025-11-06": 17,
       "2025-11-03": 47,
-      "2025-11-02": 67,
-      "2025-11-01": 19
+      "2025-11-02": 67
     }
   },
   {
@@ -1592,7 +1592,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.49%",
     "time": 532,
     "timeDay": 311,
     "timeWeek": 421,
