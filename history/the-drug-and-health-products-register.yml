@@ -1,7 +1,7 @@
 url: https://hpr-rps.hres.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-20T19:51:57.482Z
+status: up
+code: 200
+responseTime: 428
+lastUpdated: 2026-01-20T20:35:11.370Z
 startTime: 2022-08-11T21:04:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
