@@ -1,7 +1,7 @@
 url: $PDF_PM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-23T07:01:36.122Z
+status: up
+code: 200
+responseTime: 364
+lastUpdated: 2026-01-23T07:17:04.923Z
 startTime: 2022-08-11T21:04:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
