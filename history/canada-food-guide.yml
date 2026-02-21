@@ -1,7 +1,7 @@
 url: https://food-guide.canada.ca/en
-status: down
-code: 522
-responseTime: 19651
-lastUpdated: 2026-02-21T01:04:57.103Z
+status: up
+code: 200
+responseTime: 269
+lastUpdated: 2026-02-21T03:26:45.846Z
 startTime: 2022-08-11T20:26:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
