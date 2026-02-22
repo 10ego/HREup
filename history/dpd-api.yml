@@ -1,7 +1,7 @@
 url: $DPD_API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-22T10:27:13.201Z
+status: up
+code: 200
+responseTime: 30
+lastUpdated: 2026-02-22T10:47:03.944Z
 startTime: 2022-08-12T16:15:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
