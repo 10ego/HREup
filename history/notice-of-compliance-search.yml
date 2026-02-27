@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/noc-ac/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-27T20:21:12.105Z
+status: up
+code: 200
+responseTime: 261
+lastUpdated: 2026-02-27T20:45:12.294Z
 startTime: 2022-08-11T21:04:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
