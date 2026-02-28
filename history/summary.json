@@ -724,19 +724,19 @@
     "url": "$DPD_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dpd-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "83.08%",
-    "uptimeWeek": "94.83%",
-    "uptimeMonth": "96.26%",
+    "uptimeDay": "82.93%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "98.33%",
-    "time": 186,
-    "timeDay": 71,
-    "timeWeek": 947,
-    "timeMonth": 304,
-    "timeYear": 176,
+    "time": 207,
+    "timeDay": 3158,
+    "timeWeek": 1756,
+    "timeMonth": 515,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2026-02-28": 215,
+      "2026-02-28": 217,
       "2026-02-27": 28,
       "2026-02-26": 80,
       "2026-02-23": 120,
@@ -812,7 +812,7 @@
       "2025-09-08": 44,
       "2025-09-06": 24,
       "2025-09-05": 102,
-      "2025-08-31": 39
+      "2025-08-31": 15
     }
   },
   {
