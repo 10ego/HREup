@@ -13,8 +13,8 @@
     "time": 333,
     "timeDay": 197,
     "timeWeek": 214,
-    "timeMonth": 240,
-    "timeYear": 320,
+    "timeMonth": 234,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2025-03-30": 126
     }
@@ -33,7 +33,7 @@
     "time": 348,
     "timeDay": 240,
     "timeWeek": 233,
-    "timeMonth": 293,
+    "timeMonth": 286,
     "timeYear": 349,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 312,
     "timeDay": 136,
     "timeWeek": 201,
-    "timeMonth": 230,
+    "timeMonth": 224,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-04-22": 20
@@ -71,7 +71,7 @@
     "time": 729,
     "timeDay": 186,
     "timeWeek": 2438,
-    "timeMonth": 3437,
+    "timeMonth": 3507,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2026-03-05": 39,
@@ -92,9 +92,9 @@
     "slug": "canada-vigilance-consumer-dashboard",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "89.61%",
-    "uptimeMonth": "95.04%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "89.87%",
+    "uptimeMonth": "95.10%",
     "uptimeYear": "98.97%",
     "time": 274,
     "timeDay": 221,
@@ -102,7 +102,7 @@
     "timeMonth": 326,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2026-03-10": 75,
+      "2026-03-10": 48,
       "2026-03-08": 39,
       "2026-03-07": 42,
       "2026-03-06": 754,
@@ -167,7 +167,8 @@
       "2025-12-08": 959,
       "2025-12-07": 67,
       "2025-12-06": 15,
-      "2025-12-05": 22
+      "2025-12-05": 22,
+      "2025-12-04": 66
     }
   },
   {
@@ -177,17 +178,17 @@
     "slug": "canadian-nutrient-file",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "89.79%",
-    "uptimeWeek": "85.74%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "99.00%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "86.00%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "98.99%",
     "time": 471,
     "timeDay": 291,
     "timeWeek": 506,
     "timeMonth": 511,
-    "timeYear": 479,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2026-03-10": 147,
+      "2026-03-10": 121,
       "2026-03-09": 183,
       "2026-03-08": 38,
       "2026-03-07": 42,
@@ -230,7 +231,8 @@
       "2026-01-23": 21,
       "2026-01-22": 145,
       "2026-01-21": 86,
-      "2026-01-20": 45
+      "2026-01-20": 71,
+      "2026-01-19": 23
     }
   },
   {
@@ -240,17 +242,17 @@
     "slug": "clinical-trials-search",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "94.15%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "88.01%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "98.93%",
     "time": 345,
     "timeDay": 140,
     "timeWeek": 165,
-    "timeMonth": 304,
-    "timeYear": 337,
+    "timeMonth": 305,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2026-03-10": 60,
+      "2026-03-10": 48,
       "2026-03-09": 149,
       "2026-03-08": 38,
       "2026-03-07": 40,
@@ -310,7 +312,8 @@
       "2025-12-26": 128,
       "2025-12-25": 60,
       "2025-12-24": 23,
-      "2025-12-22": 33
+      "2025-12-22": 33,
+      "2025-12-21": 16
     }
   },
   {
@@ -327,7 +330,7 @@
     "time": 1930,
     "timeDay": 2466,
     "timeWeek": 2261,
-    "timeMonth": 2068,
+    "timeMonth": 1883,
     "timeYear": 2140,
     "dailyMinutesDown": {
       "2026-03-10": 46,
@@ -415,7 +418,7 @@
     "time": 378,
     "timeDay": 206,
     "timeWeek": 230,
-    "timeMonth": 428,
+    "timeMonth": 427,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-11-18": 123,
@@ -439,7 +442,7 @@
     "time": 288,
     "timeDay": 215,
     "timeWeek": 242,
-    "timeMonth": 256,
+    "timeMonth": 254,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2026-03-10": 46,
@@ -532,7 +535,7 @@
     "time": 669,
     "timeDay": 475,
     "timeWeek": 470,
-    "timeMonth": 803,
+    "timeMonth": 806,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2026-03-10": 44,
@@ -709,7 +712,7 @@
     "time": 214,
     "timeDay": 118,
     "timeWeek": 222,
-    "timeMonth": 592,
+    "timeMonth": 600,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2026-03-10": 28,
@@ -804,7 +807,7 @@
     "time": 210,
     "timeDay": 84,
     "timeWeek": 95,
-    "timeMonth": 204,
+    "timeMonth": 206,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2026-03-10": 28,
@@ -900,7 +903,7 @@
     "time": 234,
     "timeDay": 82,
     "timeWeek": 313,
-    "timeMonth": 280,
+    "timeMonth": 283,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2026-03-10": 27,
@@ -996,7 +999,7 @@
     "time": 491,
     "timeDay": 344,
     "timeWeek": 353,
-    "timeMonth": 592,
+    "timeMonth": 595,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2026-03-10": 27,
@@ -1094,7 +1097,7 @@
     "time": 175,
     "timeDay": 110,
     "timeWeek": 133,
-    "timeMonth": 222,
+    "timeMonth": 223,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2026-03-10": 26,
@@ -1184,17 +1187,17 @@
     "slug": "product-monograph-pd-fs",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "90.52%",
-    "uptimeMonth": "95.63%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "90.60%",
+    "uptimeMonth": "95.65%",
     "uptimeYear": "97.39%",
     "time": 656,
     "timeDay": 440,
     "timeWeek": 529,
-    "timeMonth": 559,
+    "timeMonth": 555,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2026-03-10": 34,
+      "2026-03-10": 26,
       "2026-03-08": 33,
       "2026-03-07": 19,
       "2026-03-06": 749,
@@ -1294,7 +1297,7 @@
     "time": 1241,
     "timeDay": 908,
     "timeWeek": 767,
-    "timeMonth": 1132,
+    "timeMonth": 1139,
     "timeYear": 1305,
     "dailyMinutesDown": {}
   },
@@ -1304,7 +1307,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "summary-safety-decision-api",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.02%",
     "uptimeDay": "98.29%",
     "uptimeWeek": "79.27%",
     "uptimeMonth": "93.08%",
@@ -1312,7 +1315,7 @@
     "time": 183,
     "timeDay": 3412,
     "timeWeek": 861,
-    "timeMonth": 369,
+    "timeMonth": 371,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2026-03-10": 25,
@@ -1510,7 +1513,7 @@
     "time": 665,
     "timeDay": 6172,
     "timeWeek": 2240,
-    "timeMonth": 1651,
+    "timeMonth": 1637,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2026-03-10": 24,
@@ -1607,7 +1610,7 @@
     "time": 842,
     "timeDay": 895,
     "timeWeek": 819,
-    "timeMonth": 874,
+    "timeMonth": 875,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2026-03-10": 23,
@@ -1706,7 +1709,7 @@
     "time": 83,
     "timeDay": 71,
     "timeWeek": 81,
-    "timeMonth": 86,
+    "timeMonth": 85,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2026-03-10": 23,
@@ -1804,7 +1807,7 @@
     "time": 545,
     "timeDay": 425,
     "timeWeek": 443,
-    "timeMonth": 535,
+    "timeMonth": 534,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2026-03-10": 22,
@@ -1896,7 +1899,7 @@
     "time": 269,
     "timeDay": 236,
     "timeWeek": 464,
-    "timeMonth": 309,
+    "timeMonth": 310,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2026-03-10": 22,
@@ -2074,7 +2077,7 @@
     "time": 46,
     "timeDay": 38,
     "timeWeek": 44,
-    "timeMonth": 45,
+    "timeMonth": 44,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2026-03-10": 21,
