@@ -1,7 +1,7 @@
 url: $REP_COMPANY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-09T20:18:58.556Z
+status: up
+code: 200
+responseTime: 59
+lastUpdated: 2026-04-09T21:00:55.512Z
 startTime: 2022-08-12T16:15:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
