@@ -1,7 +1,7 @@
 url: $SSR_API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-17T22:38:51.624Z
+status: up
+code: 200
+responseTime: 69
+lastUpdated: 2026-04-17T23:08:55.051Z
 startTime: 2023-10-24T17:19:55.266Z
 generator: Upptime <https://github.com/upptime/upptime>
