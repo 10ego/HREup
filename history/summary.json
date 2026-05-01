@@ -1180,10 +1180,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "summary-safety-decision-api",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "92.67%",
+    "uptime": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "98.50%",
     "time": 199,
     "timeDay": 184,
@@ -1191,8 +1191,6 @@
     "timeMonth": 279,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2026-05-01": 0,
-      "2026-04-30": 9,
       "2026-04-25": 24,
       "2026-04-22": 255,
       "2026-04-21": 362,
@@ -1258,7 +1256,8 @@
       "2026-01-27": 49,
       "2026-01-25": 29,
       "2026-01-21": 59,
-      "2026-01-20": 38
+      "2026-01-20": 38,
+      "2026-01-19": 17
     }
   },
   {
@@ -1268,9 +1267,9 @@
     "slug": "safety-summary-review-api",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "92.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "98.50%",
     "time": 71,
     "timeDay": 45,
@@ -1278,8 +1277,6 @@
     "timeMonth": 133,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2026-05-01": 0,
-      "2026-04-30": 9,
       "2026-04-25": 23,
       "2026-04-22": 253,
       "2026-04-21": 361,
@@ -1344,7 +1341,8 @@
       "2026-01-27": 47,
       "2026-01-25": 29,
       "2026-01-21": 58,
-      "2026-01-20": 38
+      "2026-01-20": 38,
+      "2026-01-19": 16
     }
   },
   {
@@ -1354,9 +1352,9 @@
     "slug": "regulatory-content-api",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "92.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "92.28%",
     "uptimeYear": "98.47%",
     "time": 898,
     "timeDay": 2636,
@@ -1364,8 +1362,6 @@
     "timeMonth": 2364,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2026-05-01": 0,
-      "2026-04-30": 8,
       "2026-04-25": 23,
       "2026-04-22": 363,
       "2026-04-21": 360,
@@ -1426,7 +1422,8 @@
       "2026-01-28": 116,
       "2026-01-27": 47,
       "2026-01-25": 28,
-      "2026-01-21": 58
+      "2026-01-21": 58,
+      "2026-01-20": 38
     }
   },
   {
@@ -1436,18 +1433,16 @@
     "slug": "regulatory-decision-summary-page",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "90.19%",
-    "uptimeYear": "97.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.17%",
+    "uptimeMonth": "90.21%",
+    "uptimeYear": "97.73%",
     "time": 872,
     "timeDay": 507,
     "timeWeek": 706,
     "timeMonth": 1243,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2026-05-01": 0,
-      "2026-04-30": 7,
       "2026-04-29": 344,
       "2026-04-28": 61,
       "2026-04-25": 184,
@@ -1510,7 +1505,7 @@
       "2026-01-31": 1440,
       "2026-01-30": 618,
       "2026-01-29": 129,
-      "2026-01-28": 60
+      "2026-01-28": 114
     }
   },
   {
@@ -1520,18 +1515,16 @@
     "slug": "regulatory-enrollment-program-page",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "93.00%",
-    "uptimeYear": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "98.74%",
     "time": 87,
     "timeDay": 64,
     "timeWeek": 66,
     "timeMonth": 88,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2026-05-01": 0,
-      "2026-04-30": 7,
       "2026-04-25": 22,
       "2026-04-22": 251,
       "2026-04-21": 358,
@@ -1598,7 +1591,8 @@
       "2026-01-12": 117,
       "2026-01-04": 26,
       "2025-12-29": 32,
-      "2025-12-26": 32
+      "2025-12-26": 97,
+      "2025-12-25": 0
     }
   },
   {
@@ -1607,19 +1601,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rest-mds-authorized-devices-ivdd",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "93.04%",
-    "uptimeYear": "98.76%",
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "93.06%",
+    "uptimeYear": "98.75%",
     "time": 557,
     "timeDay": 318,
     "timeWeek": 382,
     "timeMonth": 607,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2026-05-01": 0,
-      "2026-04-30": 6,
       "2026-04-25": 21,
       "2026-04-22": 249,
       "2026-04-21": 357,
@@ -1686,7 +1678,7 @@
       "2026-01-12": 115,
       "2026-01-04": 26,
       "2025-12-29": 32,
-      "2025-12-26": 31
+      "2025-12-26": 96
     }
   },
   {
@@ -1696,9 +1688,9 @@
     "slug": "tables-mds-auth-ivdd-fr",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "93.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "93.10%",
     "uptimeYear": "98.76%",
     "time": 280,
     "timeDay": 179,
@@ -1706,8 +1698,6 @@
     "timeMonth": 310,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2026-05-01": 0,
-      "2026-04-30": 6,
       "2026-04-25": 21,
       "2026-04-22": 248,
       "2026-04-21": 356,
@@ -1774,7 +1764,8 @@
       "2026-01-12": 115,
       "2026-01-04": 25,
       "2025-12-29": 31,
-      "2025-12-26": 96
+      "2025-12-26": 96,
+      "2025-12-25": 28
     }
   },
   {
@@ -1784,18 +1775,16 @@
     "slug": "tables-mds-non-ivdd-fr",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "93.13%",
-    "uptimeYear": "98.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "98.76%",
     "time": 47,
     "timeDay": 33,
     "timeWeek": 34,
     "timeMonth": 47,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2026-05-01": 0,
-      "2026-04-30": 5,
       "2026-04-25": 20,
       "2026-04-22": 245,
       "2026-04-21": 355,
@@ -1862,7 +1851,8 @@
       "2026-01-04": 25,
       "2025-12-29": 31,
       "2025-12-26": 94,
-      "2025-12-25": 27
+      "2025-12-25": 27,
+      "2025-12-16": 51
     }
   },
   {
@@ -1872,9 +1862,9 @@
     "slug": "tables-mds-pending-fr",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "93.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "98.77%",
     "time": 47,
     "timeDay": 32,
@@ -1882,8 +1872,6 @@
     "timeMonth": 45,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2026-05-01": 0,
-      "2026-04-30": 5,
       "2026-04-25": 20,
       "2026-04-22": 245,
       "2026-04-21": 354,
@@ -1950,7 +1938,8 @@
       "2025-12-29": 30,
       "2025-12-26": 94,
       "2025-12-25": 27,
-      "2025-12-16": 50
+      "2025-12-16": 50,
+      "2025-12-15": 26
     }
   },
   {
@@ -1959,19 +1948,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "veterinary-health-products-notification-program",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "93.22%",
-    "uptimeYear": "98.78%",
+    "uptime": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "98.60%",
     "time": 47,
     "timeDay": 33,
     "timeWeek": 36,
     "timeMonth": 47,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2026-05-01": 1,
-      "2026-04-30": 4,
       "2026-04-25": 19,
       "2026-04-22": 243,
       "2026-04-21": 353,
@@ -2039,7 +2026,9 @@
       "2025-12-26": 92,
       "2025-12-25": 26,
       "2025-12-16": 50,
-      "2025-12-15": 25
+      "2025-12-15": 25,
+      "2025-12-08": 925,
+      "2025-12-07": 38
     }
   }
 ]
