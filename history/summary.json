@@ -503,18 +503,19 @@
     "url": "https://dhpp.hpfb-dgpsa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/dhpp.hpfb-dgpsa.ca.ico",
     "slug": "the-drug-and-health-products-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "90.07%",
-    "uptimeYear": "98.57%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "90.06%",
+    "uptimeYear": "98.58%",
     "time": 727,
     "timeDay": 462,
     "timeWeek": 488,
     "timeMonth": 835,
     "timeYear": 743,
     "dailyMinutesDown": {
+      "2026-05-04": 2,
       "2026-04-29": 347,
       "2026-04-28": 67,
       "2026-04-25": 193,
@@ -572,7 +573,7 @@
       "2026-02-10": 56,
       "2026-02-09": 79,
       "2026-02-08": 39,
-      "2026-02-07": 84
+      "2026-02-07": 49
     }
   },
   {
