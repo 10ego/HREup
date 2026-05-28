@@ -1,7 +1,7 @@
 url: https://health-products.canada.ca/vhp-psa/en
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-28T21:08:08.985Z
+status: up
+code: 200
+responseTime: 124
+lastUpdated: 2026-05-28T21:21:30.181Z
 startTime: 2022-08-11T21:04:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
