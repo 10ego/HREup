@@ -1834,9 +1834,9 @@
     "slug": "tables-mds-non-ivdd-fr",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "88.58%",
-    "uptimeMonth": "97.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "97.26%",
     "uptimeYear": "98.56%",
     "time": 54,
     "timeDay": 154,
@@ -1844,6 +1844,7 @@
     "timeMonth": 171,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2026-01-12": 31,
       "2026-01-14": 37,
       "2026-01-15": 25,
       "2026-01-17": 15,
@@ -1912,8 +1913,7 @@
       "2026-05-28": 23,
       "2026-06-02": 119,
       "2026-06-03": 464,
-      "2026-06-04": 554,
-      "2026-06-06": 13
+      "2026-06-04": 554
     }
   },
   {
@@ -1922,18 +1922,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tables.hres.ca.ico",
     "slug": "tables-mds-pending-fr",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "88.77%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "98.57%",
+    "uptime": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.85%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "98.56%",
     "time": 54,
     "timeDay": 130,
     "timeWeek": 159,
     "timeMonth": 177,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2026-01-12": 31,
+      "2026-01-12": 113,
       "2026-01-14": 35,
       "2026-01-15": 24,
       "2026-01-20": 35,
@@ -2001,8 +2001,7 @@
       "2026-05-28": 18,
       "2026-06-02": 115,
       "2026-06-03": 460,
-      "2026-06-04": 549,
-      "2026-06-06": 8
+      "2026-06-04": 549
     }
   },
   {
@@ -2012,9 +2011,9 @@
     "slug": "veterinary-health-products-notification-program",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "88.97%",
-    "uptimeMonth": "97.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.00%",
+    "uptimeMonth": "97.40%",
     "uptimeYear": "98.57%",
     "time": 53,
     "timeDay": 127,
@@ -2022,6 +2021,7 @@
     "timeMonth": 152,
     "timeYear": 55,
     "dailyMinutesDown": {
+      "2025-12-29": 30,
       "2026-01-04": 24,
       "2026-01-12": 111,
       "2026-01-14": 20,
@@ -2090,8 +2090,7 @@
       "2026-05-16": 31,
       "2026-06-02": 110,
       "2026-06-03": 455,
-      "2026-06-04": 545,
-      "2026-06-06": 3
+      "2026-06-04": 545
     }
   }
 ]
