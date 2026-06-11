@@ -1,7 +1,7 @@
 url: $REST_MDS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-11T00:41:15.751Z
+status: up
+code: 200
+responseTime: 341
+lastUpdated: 2026-06-11T01:04:04.121Z
 startTime: 2022-08-12T16:15:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
