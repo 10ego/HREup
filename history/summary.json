@@ -1758,9 +1758,9 @@
     "slug": "tables-mds-non-ivdd-fr",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "87.79%",
-    "uptimeMonth": "94.45%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "87.92%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "98.37%",
     "time": 57,
     "timeDay": 194,
@@ -1768,6 +1768,7 @@
     "timeMonth": 173,
     "timeYear": 60,
     "dailyMinutesDown": {
+      "2026-01-27": 17,
       "2026-01-28": 108,
       "2026-01-29": 123,
       "2026-01-30": 43,
@@ -1835,8 +1836,7 @@
       "2026-06-08": 567,
       "2026-06-09": 49,
       "2026-06-10": 178,
-      "2026-06-11": 28,
-      "2026-06-12": 13
+      "2026-06-11": 28
     }
   },
   {
@@ -1846,17 +1846,17 @@
     "slug": "tables-mds-pending-fr",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "88.38%",
-    "uptimeMonth": "94.64%",
-    "uptimeYear": "98.40%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "88.46%",
+    "uptimeMonth": "94.66%",
+    "uptimeYear": "98.39%",
     "time": 57,
     "timeDay": 152,
     "timeWeek": 161,
     "timeMonth": 172,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-01-27": 17,
+      "2026-01-27": 41,
       "2026-01-28": 107,
       "2026-01-29": 122,
       "2026-01-30": 41,
@@ -1924,8 +1924,7 @@
       "2026-06-08": 562,
       "2026-06-09": 44,
       "2026-06-10": 152,
-      "2026-06-11": 24,
-      "2026-06-12": 8
+      "2026-06-11": 24
     }
   },
   {
@@ -1935,9 +1934,9 @@
     "slug": "veterinary-health-products-notification-program",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "88.81%",
-    "uptimeMonth": "94.82%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "88.84%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "98.41%",
     "time": 56,
     "timeDay": 136,
@@ -1945,6 +1944,7 @@
     "timeMonth": 152,
     "timeYear": 58,
     "dailyMinutesDown": {
+      "2026-01-25": 25,
       "2026-01-27": 39,
       "2026-01-28": 106,
       "2026-01-29": 120,
@@ -2012,8 +2012,7 @@
       "2026-06-08": 557,
       "2026-06-09": 39,
       "2026-06-10": 142,
-      "2026-06-11": 19,
-      "2026-06-12": 3
+      "2026-06-11": 19
     }
   }
 ]
