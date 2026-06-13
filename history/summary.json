@@ -1244,7 +1244,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safety-summary-review-api",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "90.36%",
     "uptimeWeek": "81.43%",
     "uptimeMonth": "92.17%",
@@ -1738,17 +1738,17 @@
     "slug": "tables-mds-non-ivdd-fr",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "87.54%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "98.38%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "87.67%",
+    "uptimeMonth": "94.42%",
+    "uptimeYear": "98.37%",
     "time": 58,
     "timeDay": 120,
     "timeWeek": 168,
     "timeMonth": 170,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2026-01-28": 56,
+      "2026-01-28": 108,
       "2026-01-29": 123,
       "2026-01-30": 43,
       "2026-02-02": 33,
@@ -1816,8 +1816,7 @@
       "2026-06-09": 49,
       "2026-06-10": 178,
       "2026-06-11": 28,
-      "2026-06-12": 25,
-      "2026-06-13": 13
+      "2026-06-12": 25
     }
   },
   {
@@ -1827,16 +1826,17 @@
     "slug": "tables-mds-pending-fr",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "88.18%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "98.40%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "88.26%",
+    "uptimeMonth": "94.61%",
+    "uptimeYear": "98.39%",
     "time": 57,
     "timeDay": 126,
     "timeWeek": 161,
     "timeMonth": 168,
     "timeYear": 60,
     "dailyMinutesDown": {
+      "2026-01-27": 17,
       "2026-01-28": 107,
       "2026-01-29": 122,
       "2026-01-30": 41,
@@ -1905,8 +1905,7 @@
       "2026-06-09": 44,
       "2026-06-10": 152,
       "2026-06-11": 24,
-      "2026-06-12": 20,
-      "2026-06-13": 8
+      "2026-06-12": 20
     }
   },
   {
@@ -1916,17 +1915,17 @@
     "slug": "veterinary-health-products-notification-program",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "88.66%",
-    "uptimeMonth": "94.79%",
-    "uptimeYear": "98.42%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "88.70%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "98.41%",
     "time": 56,
     "timeDay": 117,
     "timeWeek": 149,
     "timeMonth": 150,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2026-01-27": 16,
+      "2026-01-27": 39,
       "2026-01-28": 106,
       "2026-01-29": 120,
       "2026-01-30": 41,
@@ -1994,8 +1993,7 @@
       "2026-06-09": 39,
       "2026-06-10": 142,
       "2026-06-11": 19,
-      "2026-06-12": 15,
-      "2026-06-13": 4
+      "2026-06-12": 15
     }
   }
 ]
