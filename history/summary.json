@@ -85,19 +85,19 @@
     "url": "https://health-products.canada.ca/adverse-reaction/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canada-vigilance-consumer-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.36%",
-    "uptimeMonth": "85.36%",
-    "uptimeYear": "97.43%",
+    "uptimeDay": "92.50%",
+    "uptimeWeek": "91.29%",
+    "uptimeMonth": "85.68%",
+    "uptimeYear": "97.41%",
     "time": 280,
     "timeDay": 321,
     "timeWeek": 260,
     "timeMonth": 261,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2026-03-22": 55,
+      "2026-03-22": 39,
       "2026-03-23": 67,
       "2026-03-25": 113,
       "2026-03-26": 23,
@@ -157,7 +157,8 @@
       "2026-07-04": 221,
       "2026-07-05": 130,
       "2026-07-07": 42,
-      "2026-07-06": 68
+      "2026-07-06": 68,
+      "2026-07-08": 108
     }
   },
   {
@@ -165,19 +166,19 @@
     "url": "https://health-products.canada.ca/cnf-fce/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "canadian-nutrient-file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.65%",
-    "uptimeMonth": "85.95%",
-    "uptimeYear": "97.42%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "91.63%",
+    "uptimeMonth": "86.26%",
+    "uptimeYear": "97.41%",
     "time": 654,
     "timeDay": 664,
     "timeWeek": 5142,
     "timeMonth": 1872,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2026-04-04": 79,
+      "2026-04-04": 50,
       "2026-04-05": 88,
       "2026-04-07": 335,
       "2026-04-08": 153,
@@ -232,7 +233,8 @@
       "2026-07-04": 211,
       "2026-07-05": 125,
       "2026-07-07": 42,
-      "2026-07-06": 63
+      "2026-07-06": 63,
+      "2026-07-08": 103
     }
   },
   {
@@ -240,19 +242,19 @@
     "url": "https://health-products.canada.ca/ctdb-bdec/index-eng.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "clinical-trials-search",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.94%",
-    "uptimeMonth": "86.33%",
-    "uptimeYear": "97.53%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "91.96%",
+    "uptimeMonth": "86.64%",
+    "uptimeYear": "97.51%",
     "time": 472,
     "timeDay": 609,
     "timeWeek": 572,
     "timeMonth": 832,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2026-03-22": 56,
+      "2026-03-22": 38,
       "2026-03-23": 66,
       "2026-03-25": 157,
       "2026-03-26": 22,
@@ -311,7 +313,8 @@
       "2026-07-04": 201,
       "2026-07-05": 121,
       "2026-07-07": 42,
-      "2026-07-06": 58
+      "2026-07-06": 58,
+      "2026-07-08": 98
     }
   },
   {
@@ -319,19 +322,19 @@
     "url": "https://cv.hres.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cv.hres.ca.ico",
     "slug": "controlled-vocabulary",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.23%",
-    "uptimeMonth": "86.72%",
-    "uptimeYear": "97.59%",
-    "time": 2201,
+    "uptimeDay": "93.50%",
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "87.03%",
+    "uptimeYear": "97.58%",
+    "time": 2203,
     "timeDay": 1693,
     "timeWeek": 3379,
     "timeMonth": 2666,
     "timeYear": 2439,
     "dailyMinutesDown": {
-      "2026-03-21": 38,
+      "2026-03-21": 17,
       "2026-03-22": 54,
       "2026-03-23": 65,
       "2026-03-25": 112,
@@ -391,7 +394,8 @@
       "2026-07-04": 191,
       "2026-07-05": 116,
       "2026-07-07": 42,
-      "2026-07-06": 53
+      "2026-07-06": 53,
+      "2026-07-08": 94
     }
   },
   {
@@ -422,19 +426,19 @@
     "url": "https://hpr-rps.hres.ca",
     "icon": "https://icons.duckduckgo.com/ip3/hpr-rps.hres.ca.ico",
     "slug": "the-drug-and-health-products-register",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.51%",
-    "uptimeMonth": "87.11%",
-    "uptimeYear": "97.64%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "92.63%",
+    "uptimeMonth": "87.42%",
+    "uptimeYear": "97.63%",
     "time": 301,
     "timeDay": 377,
     "timeWeek": 280,
     "timeMonth": 359,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2026-03-21": 38,
+      "2026-03-21": 17,
       "2026-03-22": 54,
       "2026-03-23": 65,
       "2026-03-25": 110,
@@ -493,7 +497,8 @@
       "2026-07-04": 181,
       "2026-07-05": 111,
       "2026-07-07": 42,
-      "2026-07-06": 49
+      "2026-07-06": 49,
+      "2026-07-08": 89
     }
   },
   {
@@ -579,19 +584,18 @@
     "url": "https://health-products.canada.ca/dpd-bdpp/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "drug-products-database-dpd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.80%",
-    "uptimeMonth": "87.18%",
-    "uptimeYear": "97.64%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "92.97%",
+    "uptimeMonth": "87.49%",
+    "uptimeYear": "97.63%",
     "time": 819,
     "timeDay": 584,
     "timeWeek": 4095,
     "timeMonth": 2857,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2026-03-25": 43,
       "2026-03-26": 20,
       "2026-03-27": 99,
       "2026-03-28": 42,
@@ -650,7 +654,8 @@
       "2026-07-04": 172,
       "2026-07-05": 106,
       "2026-07-07": 42,
-      "2026-07-06": 44
+      "2026-07-06": 44,
+      "2026-07-08": 84
     }
   },
   {
@@ -658,19 +663,19 @@
     "url": "$DPD_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dpd-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.79%",
-    "uptimeMonth": "87.57%",
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "92.01%",
+    "uptimeMonth": "87.88%",
     "uptimeYear": "97.63%",
-    "time": 267,
+    "time": 268,
     "timeDay": 262,
     "timeWeek": 302,
     "timeMonth": 391,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2026-03-30": 186,
+      "2026-03-30": 76,
       "2026-03-31": 101,
       "2026-04-02": 53,
       "2026-04-04": 26,
@@ -728,7 +733,8 @@
       "2026-07-04": 162,
       "2026-07-05": 101,
       "2026-07-07": 42,
-      "2026-07-06": 39
+      "2026-07-06": 39,
+      "2026-07-08": 79
     }
   },
   {
@@ -736,19 +742,18 @@
     "url": "https://health-products.canada.ca/lnhpd-bdpsnh/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "lnhpd-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.38%",
-    "uptimeMonth": "88.26%",
+    "uptimeDay": "94.82%",
+    "uptimeWeek": "93.64%",
+    "uptimeMonth": "88.57%",
     "uptimeYear": "97.76%",
-    "time": 286,
+    "time": 287,
     "timeDay": 331,
     "timeWeek": 240,
     "timeMonth": 1373,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2026-03-19": 62,
       "2026-03-21": 19,
       "2026-03-22": 35,
       "2026-03-23": 63,
@@ -808,7 +813,8 @@
       "2026-07-04": 153,
       "2026-07-05": 96,
       "2026-07-07": 42,
-      "2026-07-06": 34
+      "2026-07-06": 34,
+      "2026-07-08": 75
     }
   },
   {
@@ -816,19 +822,18 @@
     "url": "https://health-products.canada.ca/mdall-limh/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "medical-devices-active-license-listing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.67%",
-    "uptimeMonth": "88.34%",
-    "uptimeYear": "97.78%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "93.97%",
+    "uptimeMonth": "88.66%",
+    "uptimeYear": "97.77%",
     "time": 226,
     "timeDay": 319,
     "timeWeek": 247,
     "timeMonth": 242,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2026-03-21": 18,
       "2026-03-22": 34,
       "2026-03-23": 63,
       "2026-03-25": 148,
@@ -888,7 +893,8 @@
       "2026-07-04": 143,
       "2026-07-05": 92,
       "2026-07-07": 42,
-      "2026-07-06": 29
+      "2026-07-06": 29,
+      "2026-07-08": 70
     }
   },
   {
@@ -896,19 +902,18 @@
     "url": "https://health-products.canada.ca/mdel-leim/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "medical-devices-establishment-license-listing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "88.73%",
-    "uptimeYear": "97.82%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "89.04%",
+    "uptimeYear": "97.81%",
     "time": 588,
     "timeDay": 589,
     "timeWeek": 727,
     "timeMonth": 1688,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2026-03-21": 18,
       "2026-03-22": 34,
       "2026-03-23": 62,
       "2026-03-25": 146,
@@ -968,7 +973,8 @@
       "2026-07-04": 133,
       "2026-07-05": 87,
       "2026-07-07": 42,
-      "2026-07-06": 24
+      "2026-07-06": 24,
+      "2026-07-08": 65
     }
   },
   {
@@ -976,19 +982,18 @@
     "url": "https://health-products.canada.ca/noc-ac/",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "notice-of-compliance-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "89.12%",
-    "uptimeYear": "97.89%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "89.43%",
+    "uptimeYear": "97.88%",
     "time": 200,
     "timeDay": 583,
     "timeWeek": 441,
     "timeMonth": 424,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2026-03-21": 17,
       "2026-03-22": 33,
       "2026-03-23": 62,
       "2026-03-25": 144,
@@ -1048,7 +1053,8 @@
       "2026-07-04": 123,
       "2026-07-05": 82,
       "2026-07-07": 42,
-      "2026-07-06": 19
+      "2026-07-06": 19,
+      "2026-07-08": 60
     }
   },
   {
@@ -1056,19 +1062,18 @@
     "url": "$PDF_PM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "product-monograph-pd-fs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "89.80%",
-    "uptimeYear": "97.98%",
-    "time": 690,
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "90.12%",
+    "uptimeYear": "97.97%",
+    "time": 691,
     "timeDay": 1113,
     "timeWeek": 777,
     "timeMonth": 863,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2026-03-15": 34,
       "2026-03-17": 82,
       "2026-03-19": 60,
       "2026-03-21": 17,
@@ -1130,7 +1135,8 @@
       "2026-07-04": 114,
       "2026-07-05": 77,
       "2026-07-07": 42,
-      "2026-07-06": 14
+      "2026-07-06": 14,
+      "2026-07-08": 55
     }
   },
   {
@@ -1138,7 +1144,7 @@
     "url": "https://materials-reference-listing-food.hpfb-dgpsa.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/materials-reference-listing-food.hpfb-dgpsa.ca.ico",
     "slug": "reference-listing-of-accepted-construction-materials-packaging-materials-and-non-food-chemical-products-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1156,19 +1162,18 @@
     "url": "$SBD_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "summary-safety-decision-api",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "90.58%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "90.89%",
     "uptimeYear": "98.07%",
-    "time": 236,
+    "time": 237,
     "timeDay": 477,
     "timeWeek": 322,
     "timeMonth": 547,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2026-03-19": 59,
       "2026-03-21": 16,
       "2026-03-22": 32,
       "2026-03-23": 60,
@@ -1229,7 +1234,8 @@
       "2026-07-04": 94,
       "2026-07-05": 67,
       "2026-07-07": 42,
-      "2026-07-06": 5
+      "2026-07-06": 5,
+      "2026-07-08": 46
     }
   },
   {
@@ -1237,11 +1243,11 @@
     "url": "$SSR_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safety-summary-review-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "90.97%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "98.11%",
     "time": 87,
     "timeDay": 247,
@@ -1249,7 +1255,6 @@
     "timeMonth": 191,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2026-03-21": 15,
       "2026-03-22": 31,
       "2026-03-23": 60,
       "2026-03-25": 105,
@@ -1308,7 +1313,8 @@
       "2026-07-03": 106,
       "2026-07-04": 85,
       "2026-07-05": 63,
-      "2026-07-07": 42
+      "2026-07-07": 42,
+      "2026-07-08": 41
     }
   },
   {
@@ -1316,19 +1322,18 @@
     "url": "$REG_CONTENT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "regulatory-content-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "91.37%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "91.69%",
     "uptimeYear": "98.13%",
-    "time": 1202,
+    "time": 1203,
     "timeDay": 3006,
     "timeWeek": 3038,
     "timeMonth": 3005,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2026-03-22": 31,
       "2026-03-23": 59,
       "2026-03-25": 104,
       "2026-03-26": 16,
@@ -1386,7 +1391,8 @@
       "2026-07-03": 101,
       "2026-07-04": 75,
       "2026-07-05": 58,
-      "2026-07-07": 37
+      "2026-07-07": 37,
+      "2026-07-08": 36
     }
   },
   {
@@ -1394,19 +1400,18 @@
     "url": "$RDS_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "regulatory-decision-summary-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "91.75%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "92.06%",
     "uptimeYear": "97.91%",
-    "time": 883,
+    "time": 882,
     "timeDay": 601,
     "timeWeek": 817,
     "timeMonth": 729,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2026-04-04": 21,
       "2026-04-06": 77,
       "2026-04-07": 382,
       "2026-04-08": 145,
@@ -1462,7 +1467,8 @@
       "2026-07-03": 97,
       "2026-07-04": 66,
       "2026-07-05": 53,
-      "2026-07-07": 32
+      "2026-07-07": 32,
+      "2026-07-08": 31
     }
   },
   {
@@ -1470,11 +1476,11 @@
     "url": "$REP_COMPANY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "regulatory-enrollment-program-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "92.13%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "92.44%",
     "uptimeYear": "98.27%",
     "time": 111,
     "timeDay": 321,
@@ -1482,7 +1488,6 @@
     "timeMonth": 224,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2026-03-10": 23,
       "2026-03-11": 48,
       "2026-03-15": 31,
       "2026-03-17": 79,
@@ -1543,7 +1548,8 @@
       "2026-07-03": 92,
       "2026-07-04": 56,
       "2026-07-05": 48,
-      "2026-07-07": 27
+      "2026-07-07": 27,
+      "2026-07-08": 27
     }
   },
   {
@@ -1551,19 +1557,18 @@
     "url": "$REST_MDS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rest-mds-authorized-devices-ivdd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "92.97%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "98.36%",
-    "time": 588,
+    "time": 589,
     "timeDay": 763,
     "timeWeek": 538,
     "timeMonth": 623,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2026-03-08": 29,
       "2026-03-10": 22,
       "2026-03-11": 46,
       "2026-03-15": 31,
@@ -1625,7 +1630,8 @@
       "2026-07-03": 87,
       "2026-07-04": 46,
       "2026-07-05": 43,
-      "2026-07-07": 23
+      "2026-07-07": 23,
+      "2026-07-08": 22
     }
   },
   {
@@ -1633,19 +1639,18 @@
     "url": "https://tables.hres.ca/mdiol/IVDD-auth/auth-ivdd-fr.html",
     "icon": "https://icons.duckduckgo.com/ip3/tables.hres.ca.ico",
     "slug": "tables-mds-auth-ivdd-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "93.33%",
-    "uptimeYear": "98.40%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "93.64%",
+    "uptimeYear": "98.41%",
     "time": 291,
     "timeDay": 322,
     "timeWeek": 286,
     "timeMonth": 272,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2026-03-08": 29,
       "2026-03-10": 22,
       "2026-03-11": 46,
       "2026-03-15": 30,
@@ -1707,7 +1712,8 @@
       "2026-07-03": 82,
       "2026-07-04": 36,
       "2026-07-05": 38,
-      "2026-07-07": 18
+      "2026-07-07": 18,
+      "2026-07-08": 17
     }
   },
   {
@@ -1715,19 +1721,18 @@
     "url": "https://tables.hres.ca/mdiol/nonIVDD-auth/auth-nonivdd-fr.html",
     "icon": "https://icons.duckduckgo.com/ip3/tables.hres.ca.ico",
     "slug": "tables-mds-non-ivdd-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "94.09%",
-    "uptimeYear": "98.15%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "94.40%",
+    "uptimeYear": "98.16%",
     "time": 66,
     "timeDay": 336,
     "timeWeek": 196,
     "timeMonth": 194,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2026-02-07": 41,
       "2026-02-09": 71,
       "2026-02-10": 48,
       "2026-02-14": 27,
@@ -1798,7 +1803,8 @@
       "2026-06-28": 174,
       "2026-07-02": 39,
       "2026-07-03": 77,
-      "2026-07-05": 34
+      "2026-07-05": 34,
+      "2026-07-08": 12
     }
   },
   {
@@ -1806,11 +1812,11 @@
     "url": "https://tables.hres.ca/mdiol/pending-IVDD-auth/pending-appl-fr.html",
     "icon": "https://icons.duckduckgo.com/ip3/tables.hres.ca.ico",
     "slug": "tables-mds-pending-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "94.36%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "94.67%",
     "uptimeYear": "98.18%",
     "time": 65,
     "timeDay": 228,
@@ -1818,7 +1824,6 @@
     "timeMonth": 191,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2026-02-06": 26,
       "2026-02-07": 68,
       "2026-02-09": 71,
       "2026-02-10": 47,
@@ -1890,7 +1895,8 @@
       "2026-06-28": 169,
       "2026-07-02": 34,
       "2026-07-03": 72,
-      "2026-07-05": 29
+      "2026-07-05": 29,
+      "2026-07-08": 7
     }
   },
   {
@@ -1898,19 +1904,18 @@
     "url": "https://health-products.canada.ca/vhp-psa/en",
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "veterinary-health-products-notification-program",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "94.56%",
-    "uptimeYear": "98.20%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "94.87%",
+    "uptimeYear": "98.21%",
     "time": 63,
     "timeDay": 244,
     "timeWeek": 174,
     "timeMonth": 172,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2026-02-05": 65,
       "2026-02-06": 25,
       "2026-02-07": 66,
       "2026-02-09": 70,
@@ -1982,7 +1987,8 @@
       "2026-06-28": 165,
       "2026-07-02": 29,
       "2026-07-03": 67,
-      "2026-07-05": 24
+      "2026-07-05": 24,
+      "2026-07-08": 3
     }
   }
 ]
