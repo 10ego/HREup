@@ -8,7 +8,7 @@
     "uptime": "98.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.86%",
+    "uptimeMonth": "59.85%",
     "uptimeYear": "96.65%",
     "time": 330,
     "timeDay": 206,
@@ -16,7 +16,7 @@
     "timeMonth": 331,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2026-07-21": 173,
+      "2026-07-21": 176,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -41,7 +41,7 @@
     "uptime": "98.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.86%",
+    "uptimeMonth": "59.85%",
     "uptimeYear": "96.65%",
     "time": 366,
     "timeDay": 198,
@@ -49,7 +49,7 @@
     "timeMonth": 368,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2026-07-21": 173,
+      "2026-07-21": 176,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -74,7 +74,7 @@
     "uptime": "98.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.86%",
+    "uptimeMonth": "59.85%",
     "uptimeYear": "96.65%",
     "time": 316,
     "timeDay": 193,
@@ -82,7 +82,7 @@
     "timeMonth": 337,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2026-07-21": 173,
+      "2026-07-21": 176,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -132,9 +132,9 @@
     "slug": "canada-vigilance-consumer-dashboard",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "92.50%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "97.29%",
     "time": 279,
     "timeDay": 374,
@@ -204,7 +204,7 @@
       "2026-07-16": 111,
       "2026-07-18": 113,
       "2026-07-19": 110,
-      "2026-07-21": 108
+      "2026-07-21": 111
     }
   },
   {
@@ -214,8 +214,8 @@
     "slug": "canadian-nutrient-file",
     "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "94.62%",
+    "uptimeDay": "92.63%",
+    "uptimeWeek": "94.60%",
     "uptimeMonth": "93.74%",
     "uptimeYear": "97.31%",
     "time": 683,
@@ -285,7 +285,7 @@
       "2026-07-16": 107,
       "2026-07-18": 107,
       "2026-07-19": 106,
-      "2026-07-21": 103
+      "2026-07-21": 106
     }
   },
   {
@@ -295,9 +295,9 @@
     "slug": "clinical-trials-search",
     "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "93.16%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "93.92%",
+    "uptimeDay": "92.96%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "93.91%",
     "uptimeYear": "97.39%",
     "time": 475,
     "timeDay": 631,
@@ -366,7 +366,7 @@
       "2026-07-16": 102,
       "2026-07-18": 102,
       "2026-07-19": 102,
-      "2026-07-21": 99
+      "2026-07-21": 101
     }
   },
   {
@@ -376,8 +376,8 @@
     "slug": "controlled-vocabulary",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "93.49%",
-    "uptimeWeek": "95.10%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "95.07%",
     "uptimeMonth": "94.41%",
     "uptimeYear": "97.45%",
     "time": 2263,
@@ -448,7 +448,7 @@
       "2026-07-16": 97,
       "2026-07-18": 98,
       "2026-07-19": 97,
-      "2026-07-21": 94
+      "2026-07-21": 97
     }
   },
   {
@@ -480,8 +480,8 @@
     "slug": "the-drug-and-health-products-register",
     "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "95.34%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "95.31%",
     "uptimeMonth": "94.65%",
     "uptimeYear": "97.51%",
     "time": 306,
@@ -551,7 +551,7 @@
       "2026-07-16": 92,
       "2026-07-18": 93,
       "2026-07-19": 92,
-      "2026-07-21": 89
+      "2026-07-21": 92
     }
   },
   {
@@ -639,9 +639,9 @@
     "slug": "drug-products-database-dpd",
     "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "94.67%",
-    "uptimeMonth": "94.14%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "94.13%",
     "uptimeYear": "97.54%",
     "time": 837,
     "timeDay": 622,
@@ -709,7 +709,7 @@
       "2026-07-16": 87,
       "2026-07-18": 88,
       "2026-07-19": 179,
-      "2026-07-21": 84
+      "2026-07-21": 87
     }
   },
   {
@@ -719,9 +719,9 @@
     "slug": "dpd-api",
     "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "94.48%",
-    "uptimeWeek": "95.31%",
-    "uptimeMonth": "91.79%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "91.78%",
     "uptimeYear": "97.33%",
     "time": 273,
     "timeDay": 252,
@@ -790,7 +790,7 @@
       "2026-07-16": 82,
       "2026-07-18": 83,
       "2026-07-19": 134,
-      "2026-07-21": 80
+      "2026-07-21": 82
     }
   },
   {
@@ -800,9 +800,9 @@
     "slug": "lnhpd-search",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "96.06%",
-    "uptimeMonth": "95.16%",
+    "uptimeDay": "94.63%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "95.15%",
     "uptimeYear": "97.68%",
     "time": 293,
     "timeDay": 338,
@@ -871,7 +871,7 @@
       "2026-07-16": 77,
       "2026-07-18": 79,
       "2026-07-19": 77,
-      "2026-07-21": 75
+      "2026-07-21": 77
     }
   },
   {
@@ -881,8 +881,8 @@
     "slug": "medical-devices-active-license-listing",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "95.14%",
-    "uptimeWeek": "95.39%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "95.37%",
     "uptimeMonth": "94.91%",
     "uptimeYear": "97.71%",
     "time": 211,
@@ -951,7 +951,7 @@
       "2026-07-16": 73,
       "2026-07-18": 74,
       "2026-07-19": 163,
-      "2026-07-21": 70
+      "2026-07-21": 73
     }
   },
   {
@@ -961,9 +961,9 @@
     "slug": "medical-devices-establishment-license-listing",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "95.04%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "95.03%",
     "uptimeYear": "97.74%",
     "time": 596,
     "timeDay": 618,
@@ -1031,7 +1031,7 @@
       "2026-07-16": 68,
       "2026-07-18": 69,
       "2026-07-19": 210,
-      "2026-07-21": 65
+      "2026-07-21": 68
     }
   },
   {
@@ -1041,8 +1041,8 @@
     "slug": "notice-of-compliance-search",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "95.87%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "95.85%",
     "uptimeMonth": "95.42%",
     "uptimeYear": "97.83%",
     "time": 201,
@@ -1111,7 +1111,7 @@
       "2026-07-16": 63,
       "2026-07-18": 64,
       "2026-07-19": 154,
-      "2026-07-21": 60
+      "2026-07-21": 63
     }
   },
   {
@@ -1121,8 +1121,8 @@
     "slug": "product-monograph-pd-fs",
     "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "97.02%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "96.99%",
     "uptimeMonth": "96.35%",
     "uptimeYear": "97.94%",
     "time": 732,
@@ -1192,7 +1192,7 @@
       "2026-07-16": 58,
       "2026-07-18": 59,
       "2026-07-19": 58,
-      "2026-07-21": 55
+      "2026-07-21": 58
     }
   },
   {
@@ -1220,8 +1220,8 @@
     "slug": "summary-safety-decision-api",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "97.50%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "97.47%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "98.06%",
     "time": 240,
@@ -1291,7 +1291,7 @@
       "2026-07-16": 48,
       "2026-07-18": 50,
       "2026-07-19": 48,
-      "2026-07-21": 46
+      "2026-07-21": 48
     }
   },
   {
@@ -1301,8 +1301,8 @@
     "slug": "safety-summary-review-api",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "97.74%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "97.71%",
     "uptimeMonth": "97.08%",
     "uptimeYear": "98.12%",
     "time": 90,
@@ -1371,7 +1371,7 @@
       "2026-07-16": 43,
       "2026-07-18": 45,
       "2026-07-19": 43,
-      "2026-07-21": 41
+      "2026-07-21": 44
     }
   },
   {
@@ -1381,9 +1381,9 @@
     "slug": "regulatory-content-api",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "97.33%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "98.15%",
     "time": 1259,
     "timeDay": 3128,
@@ -1451,7 +1451,7 @@
       "2026-07-16": 39,
       "2026-07-18": 40,
       "2026-07-19": 39,
-      "2026-07-21": 36
+      "2026-07-21": 39
     }
   },
   {
@@ -1461,8 +1461,8 @@
     "slug": "regulatory-decision-summary-page",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "96.79%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "96.76%",
     "uptimeMonth": "96.89%",
     "uptimeYear": "97.93%",
     "time": 933,
@@ -1532,7 +1532,7 @@
       "2026-07-16": 34,
       "2026-07-18": 35,
       "2026-07-19": 178,
-      "2026-07-21": 31
+      "2026-07-21": 34
     }
   },
   {
@@ -1542,8 +1542,8 @@
     "slug": "regulatory-enrollment-program-page",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "98.46%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "98.30%",
     "time": 109,
@@ -1613,7 +1613,7 @@
       "2026-07-16": 29,
       "2026-07-18": 30,
       "2026-07-19": 29,
-      "2026-07-21": 27
+      "2026-07-21": 29
     }
   },
   {
@@ -1623,8 +1623,8 @@
     "slug": "rest-mds-authorized-devices-ivdd",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.70%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "98.39%",
     "time": 591,
@@ -1695,7 +1695,7 @@
       "2026-07-16": 24,
       "2026-07-18": 25,
       "2026-07-19": 24,
-      "2026-07-21": 22
+      "2026-07-21": 24
     }
   },
   {
@@ -1705,9 +1705,9 @@
     "slug": "tables-mds-auth-ivdd-fr",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.30%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "98.44%",
     "time": 294,
     "timeDay": 313,
@@ -1777,7 +1777,7 @@
       "2026-07-16": 19,
       "2026-07-18": 21,
       "2026-07-19": 19,
-      "2026-07-21": 17
+      "2026-07-21": 19
     }
   },
   {
@@ -1787,9 +1787,9 @@
     "slug": "tables-mds-non-ivdd-fr",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "98.16%",
     "time": 67,
     "timeDay": 348,
@@ -1868,7 +1868,7 @@
       "2026-07-13": 61,
       "2026-07-15": 26,
       "2026-07-18": 16,
-      "2026-07-21": 12
+      "2026-07-21": 15
     }
   },
   {
@@ -1878,8 +1878,8 @@
     "slug": "tables-mds-pending-fr",
     "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "98.19%",
     "time": 67,
@@ -1961,7 +1961,7 @@
       "2026-07-08": 16,
       "2026-07-13": 56,
       "2026-07-15": 22,
-      "2026-07-21": 8
+      "2026-07-21": 10
     }
   },
   {
@@ -1970,10 +1970,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/health-products.canada.ca.ico",
     "slug": "veterinary-health-products-notification-program",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.19%",
+    "uptime": "99.54%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "98.21%",
     "time": 65,
     "timeDay": 267,
@@ -2054,7 +2054,7 @@
       "2026-07-05": 24,
       "2026-07-13": 51,
       "2026-07-15": 17,
-      "2026-07-21": 3
+      "2026-07-21": 5
     }
   }
 ]
